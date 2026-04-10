@@ -1,0 +1,1001 @@
+ticket_id,created_date,created_month,created_month_num,category,priority,status,assigned_analyst,department,resolution_hours,sla_target_hours,sla_met,resolved_date,satisfaction_score
+TKT-0001,2024-09-05,September,9,Network,Low,Resolved,Jordan M.,Operations,71.0,72,Yes,2024-09-08,5.0
+TKT-0002,2024-07-30,July,7,Software,Low,Resolved,Priya S.,HR,109.0,72,No,2024-08-04,4.0
+TKT-0003,2024-01-11,January,1,VPN,Medium,Closed,Priya S.,Engineering,46.0,24,No,2024-01-13,4.0
+TKT-0004,2024-11-10,November,11,Printer,High,Closed,Marcus T.,HR,6.0,8,Yes,2024-11-10,3.0
+TKT-0005,2024-10-23,October,10,Printer,Medium,Resolved,Marcus T.,Sales,6.0,24,Yes,2024-10-23,3.0
+TKT-0006,2024-01-17,January,1,VPN,High,Closed,Jordan M.,Sales,4.0,8,Yes,2024-01-18,3.0
+TKT-0007,2024-09-01,September,9,Software,Medium,Resolved,Jordan M.,Operations,24.0,24,Yes,2024-09-02,3.0
+TKT-0008,2024-04-22,April,4,VPN,Critical,Closed,Marcus T.,Engineering,2.0,2,Yes,2024-04-22,4.0
+TKT-0009,2024-05-21,May,5,Email,Low,Resolved,Jordan M.,Sales,91.0,72,No,2024-05-25,4.0
+TKT-0010,2024-07-26,July,7,Email,High,Resolved,Lena B.,HR,6.0,8,Yes,2024-07-26,5.0
+TKT-0011,2024-11-23,November,11,Hardware,High,Resolved,Marcus T.,Engineering,2.0,8,Yes,2024-11-23,3.0
+TKT-0012,2024-03-22,March,3,Password Reset,Critical,Resolved,Aisha R.,Operations,3.0,2,No,2024-03-23,4.0
+TKT-0013,2024-04-12,April,4,VPN,Low,Resolved,Lena B.,Engineering,144.0,72,No,2024-04-18,4.0
+TKT-0014,2024-02-23,February,2,Software,Medium,Closed,Priya S.,Operations,6.0,24,Yes,2024-02-23,3.0
+TKT-0015,2024-09-21,September,9,Password Reset,Medium,Resolved,Lena B.,Marketing,5.0,24,Yes,2024-09-21,5.0
+TKT-0016,2024-11-30,November,11,Email,Critical,Closed,Marcus T.,Finance,1.0,2,Yes,2024-11-30,3.0
+TKT-0017,2024-03-02,March,3,Email,Medium,Closed,Lena B.,Legal,47.0,24,No,2024-03-04,3.0
+TKT-0018,2024-12-20,December,12,Access & Permissions,Low,Closed,Priya S.,Marketing,77.0,72,No,2024-12-23,5.0
+TKT-0019,2024-07-28,July,7,Password Reset,Critical,Resolved,Jordan M.,Finance,1.0,2,Yes,2024-07-28,5.0
+TKT-0020,2024-12-07,December,12,Access & Permissions,Critical,Resolved,Lena B.,Finance,3.0,2,No,2024-12-07,2.0
+TKT-0021,2024-07-07,July,7,Password Reset,High,Resolved,Lena B.,HR,5.0,8,Yes,2024-07-07,3.0
+TKT-0022,2024-12-04,December,12,Access & Permissions,Medium,Closed,Marcus T.,Engineering,14.0,24,Yes,2024-12-05,5.0
+TKT-0023,2024-09-09,September,9,Access & Permissions,Medium,Resolved,Priya S.,Finance,34.0,24,No,2024-09-10,4.0
+TKT-0024,2024-08-16,August,8,Software,Medium,Resolved,Jordan M.,HR,38.0,24,No,2024-08-18,2.0
+TKT-0025,2024-01-13,January,1,Email,High,Resolved,Aisha R.,HR,3.0,8,Yes,2024-01-13,4.0
+TKT-0026,2024-10-07,October,10,Password Reset,Critical,Resolved,Aisha R.,HR,4.0,2,No,2024-10-08,2.0
+TKT-0027,2024-09-12,September,9,Hardware,Medium,Resolved,Jordan M.,Finance,28.0,24,No,2024-09-14,4.0
+TKT-0028,2024-05-11,May,5,Access & Permissions,High,Resolved,Lena B.,Engineering,4.0,8,Yes,2024-05-11,2.0
+TKT-0029,2024-03-12,March,3,Software,Low,Closed,Aisha R.,Legal,64.0,72,Yes,2024-03-14,5.0
+TKT-0030,2024-08-01,August,8,Software,Low,Closed,Priya S.,HR,139.0,72,No,2024-08-07,4.0
+TKT-0031,2024-07-05,July,7,Network,Low,Closed,Aisha R.,Finance,103.0,72,No,2024-07-10,5.0
+TKT-0032,2024-04-12,April,4,Password Reset,Critical,Resolved,Priya S.,HR,4.0,2,No,2024-04-13,3.0
+TKT-0033,2024-01-23,January,1,Printer,Medium,Resolved,Jordan M.,Finance,35.0,24,No,2024-01-25,4.0
+TKT-0034,2024-07-14,July,7,Software,Critical,Resolved,Priya S.,Finance,2.0,2,Yes,2024-07-14,4.0
+TKT-0035,2024-09-19,September,9,Access & Permissions,High,Resolved,Lena B.,Sales,13.0,8,No,2024-09-19,1.0
+TKT-0036,2024-02-01,February,2,Printer,Medium,Resolved,Marcus T.,HR,38.0,24,No,2024-02-03,5.0
+TKT-0037,2024-05-02,May,5,Email,Low,Resolved,Aisha R.,Marketing,102.0,72,No,2024-05-06,5.0
+TKT-0038,2024-12-29,December,12,Software,Low,In Progress,Jordan M.,Sales,,72,Pending,,
+TKT-0039,2024-03-23,March,3,Software,Medium,Closed,Priya S.,Marketing,9.0,24,Yes,2024-03-24,3.0
+TKT-0040,2024-06-19,June,6,Hardware,High,Closed,Lena B.,Marketing,10.0,8,No,2024-06-19,5.0
+TKT-0041,2024-02-10,February,2,Software,Critical,Resolved,Lena B.,HR,2.0,2,Yes,2024-02-10,3.0
+TKT-0042,2024-08-22,August,8,Email,Low,Resolved,Lena B.,Engineering,88.0,72,No,2024-08-26,3.0
+TKT-0043,2024-12-18,December,12,Email,High,Closed,Jordan M.,Finance,3.0,8,Yes,2024-12-18,4.0
+TKT-0044,2024-02-20,February,2,Password Reset,Medium,Resolved,Lena B.,Operations,17.0,24,Yes,2024-02-21,4.0
+TKT-0045,2024-01-04,January,1,Printer,Low,Resolved,Lena B.,Sales,39.0,72,Yes,2024-01-06,2.0
+TKT-0046,2024-02-19,February,2,Hardware,Low,Closed,Marcus T.,HR,94.0,72,No,2024-02-23,5.0
+TKT-0047,2024-09-16,September,9,VPN,Low,Closed,Lena B.,Operations,144.0,72,No,2024-09-22,3.0
+TKT-0048,2024-12-27,December,12,Network,Low,Closed,Aisha R.,Finance,42.0,72,Yes,2024-12-28,3.0
+TKT-0049,2024-12-25,December,12,Access & Permissions,Medium,Closed,Marcus T.,HR,27.0,24,No,2024-12-26,5.0
+TKT-0050,2024-02-11,February,2,Access & Permissions,Medium,Closed,Priya S.,Legal,3.0,24,Yes,2024-02-12,5.0
+TKT-0051,2024-05-15,May,5,Access & Permissions,Medium,Resolved,Aisha R.,Marketing,15.0,24,Yes,2024-05-16,3.0
+TKT-0052,2024-01-27,January,1,VPN,Critical,Resolved,Lena B.,Marketing,3.0,2,No,2024-01-28,5.0
+TKT-0053,2024-02-14,February,2,Email,High,Resolved,Jordan M.,Finance,9.0,8,No,2024-02-15,4.0
+TKT-0054,2024-05-14,May,5,Software,High,Resolved,Aisha R.,Sales,11.0,8,No,2024-05-14,3.0
+TKT-0055,2024-01-18,January,1,Access & Permissions,High,Resolved,Marcus T.,Engineering,1.0,8,Yes,2024-01-18,2.0
+TKT-0056,2024-09-14,September,9,Software,Critical,Closed,Marcus T.,Sales,3.0,2,No,2024-09-15,4.0
+TKT-0057,2024-06-07,June,6,Network,Medium,Resolved,Priya S.,Engineering,45.0,24,No,2024-06-09,5.0
+TKT-0058,2024-05-27,May,5,Email,Medium,Closed,Aisha R.,Sales,12.0,24,Yes,2024-05-27,5.0
+TKT-0059,2024-04-28,April,4,Printer,Low,Closed,Aisha R.,Engineering,111.0,72,No,2024-05-02,4.0
+TKT-0060,2024-03-23,March,3,Software,Medium,Resolved,Marcus T.,Sales,48.0,24,No,2024-03-25,5.0
+TKT-0061,2024-08-28,August,8,Access & Permissions,Medium,Closed,Priya S.,HR,16.0,24,Yes,2024-08-29,1.0
+TKT-0062,2024-04-05,April,4,Access & Permissions,Critical,Resolved,Aisha R.,Engineering,1.0,2,Yes,2024-04-05,4.0
+TKT-0063,2024-02-27,February,2,Software,Medium,Closed,Aisha R.,HR,1.0,24,Yes,2024-02-27,3.0
+TKT-0064,2024-09-27,September,9,Software,Medium,Resolved,Aisha R.,HR,4.0,24,Yes,2024-09-27,5.0
+TKT-0065,2024-09-16,September,9,Password Reset,Medium,Resolved,Lena B.,Legal,36.0,24,No,2024-09-17,5.0
+TKT-0066,2024-07-15,July,7,Network,Medium,Resolved,Aisha R.,Engineering,36.0,24,No,2024-07-16,3.0
+TKT-0067,2024-04-06,April,4,Password Reset,High,Closed,Priya S.,Marketing,9.0,8,No,2024-04-06,4.0
+TKT-0068,2024-10-04,October,10,Software,Low,Resolved,Priya S.,HR,70.0,72,Yes,2024-10-07,3.0
+TKT-0069,2024-09-26,September,9,VPN,Low,Resolved,Marcus T.,Sales,55.0,72,Yes,2024-09-28,4.0
+TKT-0070,2024-01-25,January,1,Hardware,Low,Resolved,Lena B.,Engineering,108.0,72,No,2024-01-29,4.0
+TKT-0071,2024-05-16,May,5,VPN,Low,Closed,Lena B.,Operations,100.0,72,No,2024-05-20,5.0
+TKT-0072,2024-11-06,November,11,Email,Medium,Resolved,Aisha R.,Engineering,15.0,24,Yes,2024-11-07,1.0
+TKT-0073,2024-05-10,May,5,Password Reset,Medium,Closed,Priya S.,Sales,26.0,24,No,2024-05-11,4.0
+TKT-0074,2024-12-18,December,12,Software,Medium,Closed,Aisha R.,HR,37.0,24,No,2024-12-19,5.0
+TKT-0075,2024-03-11,March,3,Password Reset,Low,Resolved,Marcus T.,Marketing,98.0,72,No,2024-03-15,5.0
+TKT-0076,2024-05-27,May,5,Software,Low,Resolved,Aisha R.,Finance,108.0,72,No,2024-05-31,5.0
+TKT-0077,2024-01-21,January,1,Software,Critical,Resolved,Jordan M.,Legal,3.0,2,No,2024-01-21,1.0
+TKT-0078,2024-04-06,April,4,Access & Permissions,Low,Closed,Priya S.,Engineering,6.0,72,Yes,2024-04-06,5.0
+TKT-0079,2024-08-07,August,8,Printer,Critical,Closed,Priya S.,Sales,4.0,2,No,2024-08-07,4.0
+TKT-0080,2024-10-17,October,10,Software,High,Closed,Lena B.,Finance,6.0,8,Yes,2024-10-17,5.0
+TKT-0081,2024-08-11,August,8,Access & Permissions,Medium,Resolved,Jordan M.,Sales,25.0,24,No,2024-08-12,5.0
+TKT-0082,2024-08-31,August,8,Software,Low,Closed,Lena B.,Legal,78.0,72,No,2024-09-03,1.0
+TKT-0083,2024-07-25,July,7,Printer,Medium,Resolved,Jordan M.,Legal,24.0,24,Yes,2024-07-26,4.0
+TKT-0084,2024-07-09,July,7,Password Reset,Low,Closed,Priya S.,Engineering,93.0,72,No,2024-07-13,3.0
+TKT-0085,2024-07-21,July,7,Password Reset,Critical,Closed,Aisha R.,Engineering,3.0,2,No,2024-07-21,5.0
+TKT-0086,2024-08-18,August,8,Software,Low,Closed,Marcus T.,Engineering,63.0,72,Yes,2024-08-20,3.0
+TKT-0087,2024-06-29,June,6,Hardware,Medium,Resolved,Aisha R.,Legal,43.0,24,No,2024-07-01,4.0
+TKT-0088,2024-07-08,July,7,Email,Low,Resolved,Lena B.,Finance,67.0,72,Yes,2024-07-11,4.0
+TKT-0089,2024-03-15,March,3,Access & Permissions,Low,Resolved,Aisha R.,Operations,105.0,72,No,2024-03-19,5.0
+TKT-0090,2024-06-23,June,6,VPN,High,Resolved,Priya S.,Marketing,3.0,8,Yes,2024-06-23,5.0
+TKT-0091,2024-05-23,May,5,Printer,Medium,Resolved,Marcus T.,Operations,34.0,24,No,2024-05-24,4.0
+TKT-0092,2024-04-29,April,4,Printer,Low,Closed,Jordan M.,Operations,31.0,72,Yes,2024-04-30,4.0
+TKT-0093,2024-10-23,October,10,Password Reset,Medium,Resolved,Marcus T.,Operations,13.0,24,Yes,2024-10-23,4.0
+TKT-0094,2024-10-22,October,10,Access & Permissions,Medium,Closed,Marcus T.,HR,19.0,24,Yes,2024-10-23,4.0
+TKT-0095,2024-04-27,April,4,Hardware,Low,Resolved,Jordan M.,Sales,137.0,72,No,2024-05-03,3.0
+TKT-0096,2024-02-19,February,2,Hardware,Medium,Resolved,Lena B.,Marketing,32.0,24,No,2024-02-20,4.0
+TKT-0097,2024-06-20,June,6,Password Reset,Medium,Resolved,Jordan M.,Legal,4.0,24,Yes,2024-06-20,2.0
+TKT-0098,2024-07-09,July,7,Email,Low,Resolved,Jordan M.,HR,14.0,72,Yes,2024-07-10,2.0
+TKT-0099,2024-10-23,October,10,Access & Permissions,Medium,Closed,Lena B.,Engineering,39.0,24,No,2024-10-25,4.0
+TKT-0100,2024-06-20,June,6,Hardware,Low,Resolved,Lena B.,Operations,110.0,72,No,2024-06-25,2.0
+TKT-0101,2024-10-23,October,10,Software,Low,Resolved,Priya S.,HR,55.0,72,Yes,2024-10-25,3.0
+TKT-0102,2024-01-30,January,1,Password Reset,Low,Resolved,Marcus T.,Finance,105.0,72,No,2024-02-03,3.0
+TKT-0103,2024-10-01,October,10,Access & Permissions,Low,Resolved,Marcus T.,Legal,117.0,72,No,2024-10-06,5.0
+TKT-0104,2024-08-17,August,8,Access & Permissions,Medium,Resolved,Priya S.,Marketing,13.0,24,Yes,2024-08-17,5.0
+TKT-0105,2024-01-28,January,1,Email,Low,Resolved,Aisha R.,Finance,79.0,72,No,2024-02-01,4.0
+TKT-0106,2024-04-28,April,4,Password Reset,Medium,Resolved,Aisha R.,Finance,18.0,24,Yes,2024-04-28,4.0
+TKT-0107,2024-12-11,December,12,Hardware,Medium,Closed,Jordan M.,HR,21.0,24,Yes,2024-12-12,5.0
+TKT-0108,2024-11-20,November,11,Email,High,Closed,Lena B.,Finance,1.0,8,Yes,2024-11-20,5.0
+TKT-0109,2024-03-09,March,3,Email,Medium,Resolved,Priya S.,Sales,42.0,24,No,2024-03-10,4.0
+TKT-0110,2024-11-12,November,11,VPN,Medium,Resolved,Marcus T.,Marketing,6.0,24,Yes,2024-11-12,5.0
+TKT-0111,2024-11-29,November,11,Email,Low,Closed,Aisha R.,Legal,106.0,72,No,2024-12-03,5.0
+TKT-0112,2024-01-15,January,1,Software,Medium,Resolved,Aisha R.,Legal,21.0,24,Yes,2024-01-16,4.0
+TKT-0113,2024-01-01,January,1,Hardware,Medium,Resolved,Priya S.,Sales,35.0,24,No,2024-01-02,4.0
+TKT-0114,2024-10-20,October,10,Access & Permissions,Medium,Closed,Marcus T.,Sales,29.0,24,No,2024-10-21,2.0
+TKT-0115,2024-04-21,April,4,Hardware,Medium,Resolved,Lena B.,Legal,45.0,24,No,2024-04-23,3.0
+TKT-0116,2024-03-02,March,3,Software,Medium,Resolved,Priya S.,Legal,1.0,24,Yes,2024-03-02,5.0
+TKT-0117,2024-06-28,June,6,Email,Critical,Resolved,Lena B.,Operations,2.0,2,Yes,2024-06-28,3.0
+TKT-0118,2024-11-20,November,11,Network,Medium,Resolved,Aisha R.,HR,31.0,24,No,2024-11-21,5.0
+TKT-0119,2024-07-16,July,7,Email,High,Closed,Aisha R.,Marketing,5.0,8,Yes,2024-07-16,5.0
+TKT-0120,2024-07-16,July,7,Email,Low,Resolved,Lena B.,Sales,1.0,72,Yes,2024-07-16,5.0
+TKT-0121,2024-07-09,July,7,Printer,High,Resolved,Marcus T.,Sales,15.0,8,No,2024-07-09,5.0
+TKT-0122,2024-05-26,May,5,Access & Permissions,Medium,Closed,Lena B.,Engineering,21.0,24,Yes,2024-05-27,3.0
+TKT-0123,2024-10-28,October,10,VPN,Medium,Closed,Aisha R.,Operations,21.0,24,Yes,2024-10-29,5.0
+TKT-0124,2024-09-10,September,9,Network,Critical,Closed,Lena B.,Sales,4.0,2,No,2024-09-10,4.0
+TKT-0125,2024-02-08,February,2,Password Reset,High,Resolved,Jordan M.,Operations,15.0,8,No,2024-02-09,2.0
+TKT-0126,2024-12-04,December,12,Email,Medium,Resolved,Marcus T.,Sales,10.0,24,Yes,2024-12-04,5.0
+TKT-0127,2024-09-09,September,9,VPN,Low,Closed,Marcus T.,Operations,85.0,72,No,2024-09-12,5.0
+TKT-0128,2024-10-21,October,10,Software,Medium,Resolved,Priya S.,Operations,35.0,24,No,2024-10-23,5.0
+TKT-0129,2024-04-21,April,4,Software,Critical,Resolved,Jordan M.,Engineering,1.0,2,Yes,2024-04-21,3.0
+TKT-0130,2024-04-26,April,4,Hardware,Critical,Resolved,Marcus T.,Marketing,1.0,2,Yes,2024-04-26,4.0
+TKT-0131,2024-02-26,February,2,Network,Low,Resolved,Priya S.,HR,106.0,72,No,2024-03-01,2.0
+TKT-0132,2024-12-04,December,12,Network,Medium,Resolved,Priya S.,Engineering,44.0,24,No,2024-12-06,4.0
+TKT-0133,2024-06-27,June,6,Password Reset,Low,Closed,Marcus T.,Operations,3.0,72,Yes,2024-06-27,4.0
+TKT-0134,2024-01-29,January,1,Email,Medium,Closed,Aisha R.,Operations,23.0,24,Yes,2024-01-30,3.0
+TKT-0135,2024-11-24,November,11,Software,Medium,Closed,Priya S.,Engineering,25.0,24,No,2024-11-25,4.0
+TKT-0136,2024-08-11,August,8,VPN,Low,Resolved,Marcus T.,Finance,76.0,72,No,2024-08-14,4.0
+TKT-0137,2024-09-23,September,9,Password Reset,High,Closed,Marcus T.,Legal,2.0,8,Yes,2024-09-23,5.0
+TKT-0138,2024-08-23,August,8,Email,High,Closed,Priya S.,Operations,8.0,8,Yes,2024-08-24,2.0
+TKT-0139,2024-08-31,August,8,Hardware,Medium,Closed,Lena B.,Marketing,20.0,24,Yes,2024-09-01,5.0
+TKT-0140,2024-02-05,February,2,Network,Critical,Closed,Priya S.,HR,3.0,2,No,2024-02-05,5.0
+TKT-0141,2024-12-06,December,12,Email,Critical,Closed,Aisha R.,Legal,3.0,2,No,2024-12-06,3.0
+TKT-0142,2024-12-04,December,12,Software,Medium,Resolved,Priya S.,Legal,8.0,24,Yes,2024-12-04,5.0
+TKT-0143,2024-11-30,November,11,Printer,Medium,Closed,Jordan M.,Legal,44.0,24,No,2024-12-01,4.0
+TKT-0144,2024-04-12,April,4,Email,Medium,Resolved,Lena B.,Engineering,30.0,24,No,2024-04-13,5.0
+TKT-0145,2024-05-24,May,5,Printer,Low,Resolved,Lena B.,HR,60.0,72,Yes,2024-05-26,4.0
+TKT-0146,2024-09-03,September,9,Software,High,Closed,Priya S.,Finance,10.0,8,No,2024-09-04,5.0
+TKT-0147,2024-04-28,April,4,Network,Critical,Resolved,Aisha R.,Engineering,1.0,2,Yes,2024-04-28,4.0
+TKT-0148,2024-10-15,October,10,Network,Medium,Resolved,Aisha R.,Operations,35.0,24,No,2024-10-17,2.0
+TKT-0149,2024-07-09,July,7,Printer,Medium,Resolved,Priya S.,Engineering,18.0,24,Yes,2024-07-09,4.0
+TKT-0150,2024-04-01,April,4,Printer,High,Closed,Lena B.,Operations,4.0,8,Yes,2024-04-01,4.0
+TKT-0151,2024-06-03,June,6,Password Reset,Low,Closed,Jordan M.,Operations,32.0,72,Yes,2024-06-04,3.0
+TKT-0152,2024-09-05,September,9,Printer,Medium,Resolved,Priya S.,HR,2.0,24,Yes,2024-09-05,5.0
+TKT-0153,2024-03-20,March,3,Access & Permissions,Low,Resolved,Priya S.,Marketing,142.0,72,No,2024-03-26,5.0
+TKT-0154,2024-11-02,November,11,Network,Critical,Resolved,Priya S.,Sales,1.0,2,Yes,2024-11-02,3.0
+TKT-0155,2024-03-08,March,3,Printer,Low,Resolved,Priya S.,Sales,7.0,72,Yes,2024-03-09,4.0
+TKT-0156,2024-03-08,March,3,Software,Low,Closed,Jordan M.,Engineering,33.0,72,Yes,2024-03-10,4.0
+TKT-0157,2024-05-20,May,5,Access & Permissions,Medium,Resolved,Lena B.,Finance,7.0,24,Yes,2024-05-20,5.0
+TKT-0158,2024-12-18,December,12,Hardware,High,Resolved,Jordan M.,Engineering,10.0,8,No,2024-12-19,5.0
+TKT-0159,2024-06-14,June,6,Password Reset,Medium,Closed,Jordan M.,Finance,32.0,24,No,2024-06-15,4.0
+TKT-0160,2024-02-27,February,2,Printer,Low,Closed,Aisha R.,Sales,71.0,72,Yes,2024-03-01,4.0
+TKT-0161,2024-06-25,June,6,Software,Medium,Resolved,Lena B.,Operations,28.0,24,No,2024-06-26,5.0
+TKT-0162,2024-06-16,June,6,Password Reset,Medium,Resolved,Aisha R.,Engineering,15.0,24,Yes,2024-06-16,5.0
+TKT-0163,2024-05-01,May,5,Network,Medium,Resolved,Aisha R.,Finance,43.0,24,No,2024-05-03,2.0
+TKT-0164,2024-02-03,February,2,Printer,Low,Closed,Priya S.,Sales,25.0,72,Yes,2024-02-04,2.0
+TKT-0165,2024-08-06,August,8,Printer,Medium,Resolved,Aisha R.,Legal,43.0,24,No,2024-08-07,5.0
+TKT-0166,2024-01-20,January,1,Access & Permissions,Critical,Resolved,Priya S.,Operations,3.0,2,No,2024-01-21,4.0
+TKT-0167,2024-11-25,November,11,Email,Low,Resolved,Lena B.,HR,143.0,72,No,2024-12-01,5.0
+TKT-0168,2024-11-24,November,11,Hardware,Medium,Closed,Lena B.,Operations,40.0,24,No,2024-11-25,5.0
+TKT-0169,2024-04-13,April,4,Email,Low,Closed,Marcus T.,Marketing,70.0,72,Yes,2024-04-16,1.0
+TKT-0170,2024-12-03,December,12,Hardware,Low,Resolved,Jordan M.,Operations,103.0,72,No,2024-12-08,4.0
+TKT-0171,2024-05-26,May,5,Email,Medium,Resolved,Marcus T.,Legal,22.0,24,Yes,2024-05-27,5.0
+TKT-0172,2024-08-19,August,8,Hardware,Low,Resolved,Jordan M.,Marketing,14.0,72,Yes,2024-08-20,4.0
+TKT-0173,2024-06-13,June,6,Access & Permissions,Medium,Resolved,Lena B.,Finance,29.0,24,No,2024-06-14,4.0
+TKT-0174,2024-02-13,February,2,Email,Low,Resolved,Jordan M.,HR,125.0,72,No,2024-02-18,4.0
+TKT-0175,2024-08-20,August,8,Access & Permissions,Low,Resolved,Priya S.,Legal,53.0,72,Yes,2024-08-22,3.0
+TKT-0176,2024-05-07,May,5,Network,Low,Closed,Priya S.,Engineering,128.0,72,No,2024-05-12,4.0
+TKT-0177,2024-03-30,March,3,Software,Medium,Closed,Aisha R.,Legal,43.0,24,No,2024-04-01,5.0
+TKT-0178,2024-06-18,June,6,VPN,Low,Closed,Lena B.,Engineering,20.0,72,Yes,2024-06-19,5.0
+TKT-0179,2024-06-11,June,6,Printer,Low,Resolved,Priya S.,Legal,104.0,72,No,2024-06-15,5.0
+TKT-0180,2024-06-27,June,6,Software,High,Resolved,Priya S.,Engineering,12.0,8,No,2024-06-28,4.0
+TKT-0181,2024-07-22,July,7,Access & Permissions,Low,Closed,Marcus T.,Legal,80.0,72,No,2024-07-25,3.0
+TKT-0182,2024-07-17,July,7,Printer,Medium,Resolved,Marcus T.,Operations,34.0,24,No,2024-07-18,5.0
+TKT-0183,2024-09-07,September,9,Email,High,Resolved,Priya S.,HR,8.0,8,Yes,2024-09-07,4.0
+TKT-0184,2024-10-22,October,10,Password Reset,High,Resolved,Aisha R.,Legal,3.0,8,Yes,2024-10-22,4.0
+TKT-0185,2024-08-13,August,8,Printer,Medium,Closed,Marcus T.,HR,37.0,24,No,2024-08-14,4.0
+TKT-0186,2024-07-01,July,7,Hardware,Medium,Closed,Marcus T.,Sales,20.0,24,Yes,2024-07-01,2.0
+TKT-0187,2024-06-28,June,6,Email,Medium,Resolved,Jordan M.,Operations,4.0,24,Yes,2024-06-28,5.0
+TKT-0188,2024-11-28,November,11,Hardware,Low,Resolved,Aisha R.,Legal,130.0,72,No,2024-12-03,4.0
+TKT-0189,2024-03-14,March,3,Hardware,Medium,Resolved,Aisha R.,Finance,31.0,24,No,2024-03-15,5.0
+TKT-0190,2024-11-21,November,11,Network,Medium,Resolved,Jordan M.,HR,46.0,24,No,2024-11-23,5.0
+TKT-0191,2024-06-19,June,6,Printer,Medium,Resolved,Marcus T.,Engineering,40.0,24,No,2024-06-21,4.0
+TKT-0192,2024-05-11,May,5,Printer,Medium,Closed,Jordan M.,Marketing,4.0,24,Yes,2024-05-11,2.0
+TKT-0193,2024-09-20,September,9,Network,Medium,Closed,Marcus T.,Finance,17.0,24,Yes,2024-09-21,4.0
+TKT-0194,2024-02-24,February,2,VPN,Critical,Closed,Priya S.,Sales,3.0,2,No,2024-02-25,5.0
+TKT-0195,2024-02-02,February,2,Printer,Medium,Closed,Priya S.,Operations,25.0,24,No,2024-02-03,5.0
+TKT-0196,2024-10-13,October,10,VPN,Critical,Closed,Lena B.,Marketing,1.0,2,Yes,2024-10-13,1.0
+TKT-0197,2024-04-29,April,4,Password Reset,Low,Resolved,Priya S.,HR,55.0,72,Yes,2024-05-02,5.0
+TKT-0198,2024-03-01,March,3,Hardware,Low,Resolved,Marcus T.,Legal,26.0,72,Yes,2024-03-02,4.0
+TKT-0199,2024-08-19,August,8,Network,Medium,Resolved,Aisha R.,Finance,11.0,24,Yes,2024-08-20,4.0
+TKT-0200,2024-09-19,September,9,Password Reset,High,Closed,Priya S.,Sales,15.0,8,No,2024-09-20,3.0
+TKT-0201,2024-11-10,November,11,Password Reset,High,Resolved,Aisha R.,Legal,7.0,8,Yes,2024-11-10,3.0
+TKT-0202,2024-05-28,May,5,Access & Permissions,Medium,Closed,Lena B.,HR,27.0,24,No,2024-05-29,5.0
+TKT-0203,2024-01-21,January,1,Software,Medium,Resolved,Lena B.,Legal,24.0,24,Yes,2024-01-22,2.0
+TKT-0204,2024-02-02,February,2,Network,High,Resolved,Aisha R.,Finance,9.0,8,No,2024-02-02,5.0
+TKT-0205,2024-03-27,March,3,VPN,High,Closed,Jordan M.,Engineering,12.0,8,No,2024-03-27,4.0
+TKT-0206,2024-04-01,April,4,Hardware,Medium,Resolved,Marcus T.,Finance,6.0,24,Yes,2024-04-01,5.0
+TKT-0207,2024-09-09,September,9,Email,Medium,Resolved,Aisha R.,Operations,10.0,24,Yes,2024-09-09,5.0
+TKT-0208,2024-10-21,October,10,Software,High,Closed,Jordan M.,Marketing,15.0,8,No,2024-10-22,3.0
+TKT-0209,2024-02-28,February,2,VPN,Medium,Closed,Jordan M.,Legal,47.0,24,No,2024-03-01,3.0
+TKT-0210,2024-04-26,April,4,Password Reset,Low,Resolved,Jordan M.,Finance,62.0,72,Yes,2024-04-29,5.0
+TKT-0211,2024-07-13,July,7,Access & Permissions,Medium,Closed,Priya S.,Marketing,2.0,24,Yes,2024-07-13,4.0
+TKT-0212,2024-08-26,August,8,Software,Medium,Resolved,Lena B.,Marketing,37.0,24,No,2024-08-28,2.0
+TKT-0213,2024-07-23,July,7,VPN,Medium,Resolved,Aisha R.,Finance,33.0,24,No,2024-07-24,4.0
+TKT-0214,2024-05-24,May,5,Software,Low,Resolved,Marcus T.,HR,5.0,72,Yes,2024-05-25,5.0
+TKT-0215,2024-08-31,August,8,Printer,Low,Resolved,Lena B.,Marketing,86.0,72,No,2024-09-04,5.0
+TKT-0216,2024-03-08,March,3,Password Reset,High,Closed,Priya S.,Legal,15.0,8,No,2024-03-09,2.0
+TKT-0217,2024-10-05,October,10,Access & Permissions,High,Resolved,Jordan M.,Legal,15.0,8,No,2024-10-05,3.0
+TKT-0218,2024-01-17,January,1,Password Reset,Medium,Resolved,Marcus T.,Finance,20.0,24,Yes,2024-01-18,5.0
+TKT-0219,2024-03-15,March,3,Printer,Low,Closed,Marcus T.,Finance,13.0,72,Yes,2024-03-15,5.0
+TKT-0220,2024-06-18,June,6,VPN,High,Closed,Marcus T.,HR,15.0,8,No,2024-06-19,4.0
+TKT-0221,2024-07-12,July,7,Software,Medium,Resolved,Aisha R.,Finance,34.0,24,No,2024-07-13,4.0
+TKT-0222,2024-11-15,November,11,Software,Low,Resolved,Marcus T.,Operations,76.0,72,No,2024-11-18,3.0
+TKT-0223,2024-06-22,June,6,Password Reset,Medium,Resolved,Marcus T.,Engineering,28.0,24,No,2024-06-23,1.0
+TKT-0224,2024-12-03,December,12,Hardware,Critical,Resolved,Jordan M.,Operations,4.0,2,No,2024-12-04,4.0
+TKT-0225,2024-05-21,May,5,Hardware,Medium,Closed,Priya S.,Legal,48.0,24,No,2024-05-23,4.0
+TKT-0226,2024-10-30,October,10,Printer,Medium,Resolved,Marcus T.,Engineering,9.0,24,Yes,2024-10-30,5.0
+TKT-0227,2024-01-13,January,1,Printer,Medium,Resolved,Marcus T.,Engineering,44.0,24,No,2024-01-15,5.0
+TKT-0228,2024-08-10,August,8,Email,Low,Resolved,Priya S.,Finance,94.0,72,No,2024-08-14,1.0
+TKT-0229,2024-03-13,March,3,Software,Medium,Closed,Marcus T.,Legal,25.0,24,No,2024-03-14,3.0
+TKT-0230,2024-06-22,June,6,Password Reset,Low,Closed,Priya S.,Finance,74.0,72,No,2024-06-25,2.0
+TKT-0231,2024-01-29,January,1,Software,Medium,Resolved,Marcus T.,Operations,46.0,24,No,2024-01-31,4.0
+TKT-0232,2024-01-26,January,1,Network,Medium,Closed,Priya S.,Legal,19.0,24,Yes,2024-01-27,4.0
+TKT-0233,2024-03-28,March,3,Access & Permissions,Low,Closed,Aisha R.,Finance,52.0,72,Yes,2024-03-30,4.0
+TKT-0234,2024-08-10,August,8,Software,Medium,Resolved,Jordan M.,Marketing,36.0,24,No,2024-08-11,4.0
+TKT-0235,2024-10-05,October,10,Software,High,Closed,Priya S.,Marketing,14.0,8,No,2024-10-06,4.0
+TKT-0236,2024-06-23,June,6,Network,Medium,Resolved,Priya S.,Engineering,34.0,24,No,2024-06-25,4.0
+TKT-0237,2024-12-03,December,12,Email,Low,Resolved,Priya S.,HR,32.0,72,Yes,2024-12-04,4.0
+TKT-0238,2024-10-02,October,10,Software,Low,Closed,Marcus T.,HR,133.0,72,No,2024-10-08,4.0
+TKT-0239,2024-08-01,August,8,Software,Low,Closed,Lena B.,Operations,78.0,72,No,2024-08-05,3.0
+TKT-0240,2024-08-13,August,8,Hardware,Low,Closed,Jordan M.,Finance,87.0,72,No,2024-08-17,1.0
+TKT-0241,2024-09-06,September,9,VPN,High,Closed,Lena B.,Operations,9.0,8,No,2024-09-06,1.0
+TKT-0242,2024-12-11,December,12,Email,Medium,Closed,Aisha R.,HR,19.0,24,Yes,2024-12-12,5.0
+TKT-0243,2024-09-23,September,9,Hardware,Medium,Resolved,Priya S.,Engineering,30.0,24,No,2024-09-24,4.0
+TKT-0244,2024-06-29,June,6,Printer,Low,Resolved,Marcus T.,Engineering,37.0,72,Yes,2024-06-30,2.0
+TKT-0245,2024-05-23,May,5,Password Reset,Medium,Resolved,Jordan M.,Marketing,7.0,24,Yes,2024-05-24,4.0
+TKT-0246,2024-02-24,February,2,VPN,Low,Closed,Priya S.,Legal,75.0,72,No,2024-02-27,5.0
+TKT-0247,2024-11-11,November,11,Access & Permissions,Medium,Closed,Priya S.,Engineering,37.0,24,No,2024-11-13,5.0
+TKT-0248,2024-06-30,June,6,Software,Medium,Resolved,Aisha R.,Sales,20.0,24,Yes,2024-07-01,4.0
+TKT-0249,2024-04-03,April,4,Email,Low,Resolved,Aisha R.,Sales,91.0,72,No,2024-04-07,5.0
+TKT-0250,2024-09-11,September,9,Software,Medium,Resolved,Aisha R.,HR,19.0,24,Yes,2024-09-11,5.0
+TKT-0251,2024-10-09,October,10,VPN,Medium,Resolved,Jordan M.,Sales,26.0,24,No,2024-10-10,4.0
+TKT-0252,2024-05-20,May,5,Password Reset,Medium,Resolved,Lena B.,Marketing,5.0,24,Yes,2024-05-20,5.0
+TKT-0253,2024-08-30,August,8,Software,Medium,Resolved,Aisha R.,Marketing,8.0,24,Yes,2024-08-30,5.0
+TKT-0254,2024-05-11,May,5,Access & Permissions,Medium,Closed,Lena B.,Sales,24.0,24,Yes,2024-05-12,4.0
+TKT-0255,2024-01-16,January,1,Password Reset,Low,Closed,Lena B.,Engineering,36.0,72,Yes,2024-01-18,2.0
+TKT-0256,2024-12-12,December,12,Printer,Medium,Closed,Priya S.,Engineering,21.0,24,Yes,2024-12-13,5.0
+TKT-0257,2024-10-14,October,10,Password Reset,High,Resolved,Lena B.,Marketing,11.0,8,No,2024-10-14,4.0
+TKT-0258,2024-01-07,January,1,VPN,Medium,Resolved,Lena B.,Marketing,44.0,24,No,2024-01-09,5.0
+TKT-0259,2024-10-08,October,10,Email,High,Resolved,Lena B.,Sales,1.0,8,Yes,2024-10-08,3.0
+TKT-0260,2024-01-20,January,1,VPN,Medium,Resolved,Priya S.,Legal,11.0,24,Yes,2024-01-21,5.0
+TKT-0261,2024-01-13,January,1,Hardware,Medium,Resolved,Aisha R.,Marketing,45.0,24,No,2024-01-15,4.0
+TKT-0262,2024-06-09,June,6,Password Reset,Medium,Resolved,Jordan M.,Operations,27.0,24,No,2024-06-10,2.0
+TKT-0263,2024-03-21,March,3,VPN,Medium,Resolved,Marcus T.,HR,43.0,24,No,2024-03-23,4.0
+TKT-0264,2024-07-26,July,7,Email,Medium,Closed,Lena B.,Engineering,23.0,24,Yes,2024-07-27,3.0
+TKT-0265,2024-04-05,April,4,Email,Low,Resolved,Marcus T.,Operations,77.0,72,No,2024-04-08,3.0
+TKT-0266,2024-09-30,September,9,Email,Medium,Resolved,Marcus T.,Finance,31.0,24,No,2024-10-02,4.0
+TKT-0267,2024-07-29,July,7,Network,Medium,Closed,Marcus T.,Finance,26.0,24,No,2024-07-31,3.0
+TKT-0268,2024-10-04,October,10,Password Reset,Low,Closed,Priya S.,HR,114.0,72,No,2024-10-09,5.0
+TKT-0269,2024-04-15,April,4,Access & Permissions,Critical,Resolved,Priya S.,Finance,3.0,2,No,2024-04-15,5.0
+TKT-0270,2024-07-25,July,7,VPN,Low,Resolved,Marcus T.,Operations,60.0,72,Yes,2024-07-27,4.0
+TKT-0271,2024-09-21,September,9,Network,High,Closed,Aisha R.,Operations,1.0,8,Yes,2024-09-21,5.0
+TKT-0272,2024-12-07,December,12,Email,Medium,Resolved,Marcus T.,Marketing,42.0,24,No,2024-12-08,4.0
+TKT-0273,2024-12-18,December,12,Hardware,High,Resolved,Priya S.,Engineering,8.0,8,Yes,2024-12-18,5.0
+TKT-0274,2024-03-09,March,3,VPN,Critical,Closed,Aisha R.,HR,1.0,2,Yes,2024-03-09,5.0
+TKT-0275,2024-12-04,December,12,Software,Critical,Resolved,Marcus T.,Marketing,1.0,2,Yes,2024-12-04,4.0
+TKT-0276,2024-09-06,September,9,Network,Medium,Closed,Lena B.,Engineering,32.0,24,No,2024-09-07,3.0
+TKT-0277,2024-11-10,November,11,Email,Low,Closed,Priya S.,Finance,42.0,72,Yes,2024-11-11,5.0
+TKT-0278,2024-11-03,November,11,VPN,Low,Resolved,Aisha R.,Sales,50.0,72,Yes,2024-11-05,4.0
+TKT-0279,2024-06-04,June,6,Password Reset,Medium,Closed,Marcus T.,HR,12.0,24,Yes,2024-06-05,1.0
+TKT-0280,2024-05-28,May,5,Email,Low,Closed,Lena B.,Operations,69.0,72,Yes,2024-05-31,4.0
+TKT-0281,2024-04-11,April,4,Software,Medium,Resolved,Aisha R.,Marketing,45.0,24,No,2024-04-13,3.0
+TKT-0282,2024-09-23,September,9,Software,Medium,Closed,Marcus T.,Marketing,46.0,24,No,2024-09-25,4.0
+TKT-0283,2024-03-26,March,3,Printer,Critical,Resolved,Aisha R.,Operations,4.0,2,No,2024-03-26,4.0
+TKT-0284,2024-07-01,July,7,Software,High,Closed,Lena B.,Engineering,7.0,8,Yes,2024-07-02,4.0
+TKT-0285,2024-05-20,May,5,Access & Permissions,Low,Resolved,Lena B.,Sales,29.0,72,Yes,2024-05-21,2.0
+TKT-0286,2024-05-07,May,5,Access & Permissions,High,Resolved,Lena B.,Engineering,15.0,8,No,2024-05-08,2.0
+TKT-0287,2024-07-17,July,7,VPN,Medium,Resolved,Aisha R.,Sales,4.0,24,Yes,2024-07-17,2.0
+TKT-0288,2024-06-28,June,6,VPN,Medium,Closed,Marcus T.,Legal,20.0,24,Yes,2024-06-29,1.0
+TKT-0289,2024-03-25,March,3,Software,Medium,Resolved,Lena B.,Finance,3.0,24,Yes,2024-03-25,5.0
+TKT-0290,2024-01-27,January,1,VPN,Critical,Resolved,Priya S.,Legal,4.0,2,No,2024-01-27,2.0
+TKT-0291,2024-09-06,September,9,VPN,Critical,Resolved,Aisha R.,Legal,4.0,2,No,2024-09-06,5.0
+TKT-0292,2024-05-26,May,5,Network,Medium,Closed,Marcus T.,Finance,44.0,24,No,2024-05-28,3.0
+TKT-0293,2024-07-27,July,7,Access & Permissions,Medium,Closed,Jordan M.,Legal,9.0,24,Yes,2024-07-28,1.0
+TKT-0294,2024-04-25,April,4,VPN,Medium,Resolved,Priya S.,HR,47.0,24,No,2024-04-27,4.0
+TKT-0295,2024-03-01,March,3,VPN,Low,Resolved,Lena B.,Legal,29.0,72,Yes,2024-03-02,5.0
+TKT-0296,2024-12-11,December,12,Hardware,Low,Resolved,Aisha R.,Sales,53.0,72,Yes,2024-12-13,5.0
+TKT-0297,2024-12-04,December,12,Access & Permissions,Low,Resolved,Lena B.,HR,12.0,72,Yes,2024-12-05,5.0
+TKT-0298,2024-10-28,October,10,Access & Permissions,Low,Closed,Lena B.,Marketing,129.0,72,No,2024-11-02,4.0
+TKT-0299,2024-10-27,October,10,Network,Medium,Resolved,Lena B.,HR,21.0,24,Yes,2024-10-27,4.0
+TKT-0300,2024-04-16,April,4,VPN,Low,Closed,Lena B.,Engineering,45.0,72,Yes,2024-04-18,1.0
+TKT-0301,2024-05-13,May,5,Printer,Critical,Closed,Aisha R.,Engineering,4.0,2,No,2024-05-13,2.0
+TKT-0302,2024-05-26,May,5,Access & Permissions,Low,Resolved,Marcus T.,Legal,138.0,72,No,2024-05-31,5.0
+TKT-0303,2024-11-08,November,11,VPN,Medium,Resolved,Lena B.,Sales,4.0,24,Yes,2024-11-09,2.0
+TKT-0304,2024-04-04,April,4,Password Reset,Low,Closed,Marcus T.,Finance,85.0,72,No,2024-04-07,4.0
+TKT-0305,2024-11-18,November,11,Hardware,Low,Resolved,Jordan M.,HR,69.0,72,Yes,2024-11-20,5.0
+TKT-0306,2024-08-16,August,8,Printer,High,Resolved,Marcus T.,Finance,7.0,8,Yes,2024-08-16,3.0
+TKT-0307,2024-03-14,March,3,Password Reset,Critical,Closed,Priya S.,Operations,1.0,2,Yes,2024-03-14,4.0
+TKT-0308,2024-03-20,March,3,Email,Medium,Resolved,Aisha R.,Engineering,16.0,24,Yes,2024-03-21,4.0
+TKT-0309,2024-05-19,May,5,Password Reset,Medium,Resolved,Aisha R.,Finance,24.0,24,Yes,2024-05-20,5.0
+TKT-0310,2024-10-07,October,10,Printer,Medium,Closed,Marcus T.,Engineering,21.0,24,Yes,2024-10-08,1.0
+TKT-0311,2024-12-01,December,12,VPN,Low,Resolved,Marcus T.,HR,38.0,72,Yes,2024-12-03,3.0
+TKT-0312,2024-03-30,March,3,Printer,Medium,Resolved,Marcus T.,Legal,16.0,24,Yes,2024-03-30,5.0
+TKT-0313,2024-10-08,October,10,Printer,Medium,Resolved,Priya S.,HR,32.0,24,No,2024-10-09,5.0
+TKT-0314,2024-07-08,July,7,Hardware,Low,Closed,Lena B.,Finance,139.0,72,No,2024-07-14,5.0
+TKT-0315,2024-01-29,January,1,VPN,Critical,Closed,Priya S.,Legal,1.0,2,Yes,2024-01-29,4.0
+TKT-0316,2024-01-27,January,1,Password Reset,High,Resolved,Marcus T.,Finance,1.0,8,Yes,2024-01-27,4.0
+TKT-0317,2024-09-15,September,9,Hardware,Critical,Closed,Jordan M.,Sales,4.0,2,No,2024-09-16,4.0
+TKT-0318,2024-01-05,January,1,Email,Low,Resolved,Jordan M.,Sales,71.0,72,Yes,2024-01-08,5.0
+TKT-0319,2024-09-18,September,9,Software,Medium,Resolved,Lena B.,HR,12.0,24,Yes,2024-09-19,3.0
+TKT-0320,2024-08-28,August,8,VPN,Medium,Resolved,Jordan M.,Marketing,23.0,24,Yes,2024-08-29,5.0
+TKT-0321,2024-06-27,June,6,Software,Medium,Resolved,Jordan M.,Finance,45.0,24,No,2024-06-29,4.0
+TKT-0322,2024-05-26,May,5,Network,Medium,Closed,Jordan M.,Engineering,4.0,24,Yes,2024-05-26,5.0
+TKT-0323,2024-09-07,September,9,Hardware,High,Closed,Priya S.,HR,4.0,8,Yes,2024-09-07,5.0
+TKT-0324,2024-09-25,September,9,Software,High,Resolved,Marcus T.,Sales,16.0,8,No,2024-09-26,4.0
+TKT-0325,2024-01-13,January,1,Access & Permissions,Low,Resolved,Lena B.,HR,81.0,72,No,2024-01-17,5.0
+TKT-0326,2024-10-03,October,10,Access & Permissions,High,Resolved,Lena B.,Legal,3.0,8,Yes,2024-10-03,5.0
+TKT-0327,2024-09-19,September,9,Network,High,Resolved,Jordan M.,Sales,11.0,8,No,2024-09-20,5.0
+TKT-0328,2024-05-14,May,5,Software,Low,Resolved,Marcus T.,Sales,112.0,72,No,2024-05-18,5.0
+TKT-0329,2024-08-19,August,8,Email,Medium,Resolved,Aisha R.,Engineering,21.0,24,Yes,2024-08-20,3.0
+TKT-0330,2024-08-02,August,8,VPN,Critical,Resolved,Jordan M.,Legal,4.0,2,No,2024-08-02,4.0
+TKT-0331,2024-11-05,November,11,Network,Low,Resolved,Aisha R.,Operations,19.0,72,Yes,2024-11-06,5.0
+TKT-0332,2024-02-29,February,2,Software,High,Resolved,Jordan M.,Marketing,11.0,8,No,2024-03-01,4.0
+TKT-0333,2024-10-22,October,10,VPN,Low,Resolved,Aisha R.,Sales,34.0,72,Yes,2024-10-24,4.0
+TKT-0334,2024-06-07,June,6,Software,Low,Resolved,Lena B.,Sales,23.0,72,Yes,2024-06-08,5.0
+TKT-0335,2024-12-01,December,12,Software,Medium,Resolved,Lena B.,HR,19.0,24,Yes,2024-12-02,4.0
+TKT-0336,2024-03-06,March,3,Email,Medium,Resolved,Marcus T.,Engineering,11.0,24,Yes,2024-03-07,2.0
+TKT-0337,2024-03-05,March,3,Software,Medium,Resolved,Marcus T.,Marketing,27.0,24,No,2024-03-07,5.0
+TKT-0338,2024-10-06,October,10,Password Reset,Medium,Closed,Jordan M.,HR,39.0,24,No,2024-10-08,4.0
+TKT-0339,2024-06-02,June,6,Printer,Medium,Resolved,Aisha R.,Marketing,40.0,24,No,2024-06-04,4.0
+TKT-0340,2024-11-15,November,11,Access & Permissions,High,Resolved,Aisha R.,Marketing,5.0,8,Yes,2024-11-16,3.0
+TKT-0341,2024-06-03,June,6,Password Reset,Critical,Closed,Lena B.,Legal,3.0,2,No,2024-06-03,3.0
+TKT-0342,2024-05-26,May,5,Access & Permissions,Low,Resolved,Lena B.,Sales,101.0,72,No,2024-05-30,3.0
+TKT-0343,2024-10-25,October,10,Access & Permissions,Medium,Resolved,Aisha R.,Legal,47.0,24,No,2024-10-27,3.0
+TKT-0344,2024-09-26,September,9,Network,Low,Closed,Marcus T.,HR,105.0,72,No,2024-09-30,3.0
+TKT-0345,2024-02-29,February,2,Password Reset,High,Resolved,Lena B.,Engineering,13.0,8,No,2024-03-01,4.0
+TKT-0346,2024-12-24,December,12,Printer,Critical,Resolved,Lena B.,Sales,4.0,2,No,2024-12-24,4.0
+TKT-0347,2024-02-03,February,2,Printer,Low,Closed,Priya S.,Operations,64.0,72,Yes,2024-02-05,4.0
+TKT-0348,2024-08-06,August,8,Printer,Critical,Closed,Aisha R.,Finance,4.0,2,No,2024-08-06,1.0
+TKT-0349,2024-04-10,April,4,Access & Permissions,Low,Resolved,Aisha R.,Marketing,133.0,72,No,2024-04-16,4.0
+TKT-0350,2024-10-26,October,10,Printer,Medium,Resolved,Jordan M.,Engineering,45.0,24,No,2024-10-28,2.0
+TKT-0351,2024-06-10,June,6,Network,Critical,Resolved,Marcus T.,Marketing,1.0,2,Yes,2024-06-10,4.0
+TKT-0352,2024-10-31,October,10,Software,Low,Resolved,Aisha R.,Operations,124.0,72,No,2024-11-05,5.0
+TKT-0353,2024-05-03,May,5,Software,Low,Closed,Jordan M.,Legal,12.0,72,Yes,2024-05-04,4.0
+TKT-0354,2024-02-12,February,2,Access & Permissions,Medium,Closed,Lena B.,HR,11.0,24,Yes,2024-02-12,4.0
+TKT-0355,2024-05-08,May,5,VPN,Medium,Resolved,Priya S.,HR,30.0,24,No,2024-05-09,4.0
+TKT-0356,2024-06-16,June,6,Access & Permissions,Medium,Closed,Aisha R.,Sales,48.0,24,No,2024-06-18,4.0
+TKT-0357,2024-01-02,January,1,Software,High,Resolved,Lena B.,Finance,7.0,8,Yes,2024-01-03,5.0
+TKT-0358,2024-07-27,July,7,Software,Low,Resolved,Marcus T.,Operations,84.0,72,No,2024-07-31,5.0
+TKT-0359,2024-07-23,July,7,VPN,Critical,Resolved,Lena B.,Finance,3.0,2,No,2024-07-24,4.0
+TKT-0360,2024-11-24,November,11,Email,Medium,Closed,Lena B.,Sales,12.0,24,Yes,2024-11-24,2.0
+TKT-0361,2024-02-22,February,2,Network,Medium,Resolved,Marcus T.,Operations,16.0,24,Yes,2024-02-22,2.0
+TKT-0362,2024-05-30,May,5,VPN,Medium,Resolved,Priya S.,Engineering,9.0,24,Yes,2024-05-31,4.0
+TKT-0363,2024-09-26,September,9,Password Reset,Critical,Resolved,Marcus T.,HR,2.0,2,Yes,2024-09-26,3.0
+TKT-0364,2024-11-22,November,11,Hardware,Medium,Closed,Aisha R.,HR,4.0,24,Yes,2024-11-23,3.0
+TKT-0365,2024-05-29,May,5,Password Reset,Critical,Resolved,Aisha R.,Operations,4.0,2,No,2024-05-29,5.0
+TKT-0366,2024-07-08,July,7,Access & Permissions,Low,Closed,Marcus T.,Finance,8.0,72,Yes,2024-07-09,3.0
+TKT-0367,2024-07-27,July,7,Password Reset,Low,Resolved,Lena B.,Sales,118.0,72,No,2024-08-01,2.0
+TKT-0368,2024-02-14,February,2,Printer,Low,Closed,Lena B.,Legal,140.0,72,No,2024-02-20,5.0
+TKT-0369,2024-10-22,October,10,Software,High,Closed,Priya S.,Marketing,7.0,8,Yes,2024-10-22,5.0
+TKT-0370,2024-01-13,January,1,Software,Medium,Closed,Aisha R.,Legal,23.0,24,Yes,2024-01-14,5.0
+TKT-0371,2024-10-28,October,10,Printer,High,Closed,Lena B.,Operations,7.0,8,Yes,2024-10-28,4.0
+TKT-0372,2024-08-27,August,8,Hardware,Low,Closed,Lena B.,Marketing,53.0,72,Yes,2024-08-29,4.0
+TKT-0373,2024-08-19,August,8,Email,Medium,Closed,Marcus T.,Sales,21.0,24,Yes,2024-08-20,3.0
+TKT-0374,2024-11-29,November,11,Network,Medium,Closed,Aisha R.,Finance,44.0,24,No,2024-12-01,5.0
+TKT-0375,2024-12-02,December,12,Access & Permissions,Medium,Closed,Priya S.,Operations,45.0,24,No,2024-12-04,4.0
+TKT-0376,2024-04-06,April,4,Email,High,Resolved,Aisha R.,Engineering,13.0,8,No,2024-04-06,4.0
+TKT-0377,2024-09-03,September,9,Email,High,Resolved,Marcus T.,Engineering,3.0,8,Yes,2024-09-03,5.0
+TKT-0378,2024-05-07,May,5,Password Reset,Medium,Resolved,Marcus T.,Legal,47.0,24,No,2024-05-09,2.0
+TKT-0379,2024-07-26,July,7,Password Reset,Medium,Closed,Marcus T.,Marketing,28.0,24,No,2024-07-27,5.0
+TKT-0380,2024-05-11,May,5,Password Reset,Medium,Resolved,Marcus T.,Operations,9.0,24,Yes,2024-05-11,5.0
+TKT-0381,2024-01-18,January,1,Network,Low,Resolved,Aisha R.,Engineering,118.0,72,No,2024-01-23,1.0
+TKT-0382,2024-06-15,June,6,Email,Low,Closed,Priya S.,Legal,34.0,72,Yes,2024-06-16,5.0
+TKT-0383,2024-04-16,April,4,Printer,Low,Resolved,Priya S.,Finance,93.0,72,No,2024-04-20,4.0
+TKT-0384,2024-04-28,April,4,Software,High,Resolved,Jordan M.,Finance,8.0,8,Yes,2024-04-28,3.0
+TKT-0385,2024-01-31,January,1,Password Reset,Low,Resolved,Jordan M.,Finance,58.0,72,Yes,2024-02-02,5.0
+TKT-0386,2024-11-13,November,11,Password Reset,Low,Closed,Jordan M.,HR,109.0,72,No,2024-11-17,4.0
+TKT-0387,2024-10-10,October,10,Email,High,Resolved,Priya S.,Engineering,4.0,8,Yes,2024-10-10,5.0
+TKT-0388,2024-10-19,October,10,Hardware,High,Resolved,Lena B.,Operations,5.0,8,Yes,2024-10-19,3.0
+TKT-0389,2024-05-16,May,5,Password Reset,High,Closed,Priya S.,Finance,5.0,8,Yes,2024-05-16,5.0
+TKT-0390,2024-02-24,February,2,VPN,High,Resolved,Marcus T.,Legal,13.0,8,No,2024-02-24,2.0
+TKT-0391,2024-04-17,April,4,Email,Medium,Resolved,Jordan M.,Legal,16.0,24,Yes,2024-04-18,5.0
+TKT-0392,2024-12-06,December,12,Access & Permissions,Medium,Closed,Aisha R.,Marketing,34.0,24,No,2024-12-07,4.0
+TKT-0393,2024-10-31,October,10,Software,High,Resolved,Priya S.,Engineering,8.0,8,Yes,2024-10-31,4.0
+TKT-0394,2024-01-28,January,1,Printer,Medium,Closed,Priya S.,Engineering,1.0,24,Yes,2024-01-28,5.0
+TKT-0395,2024-08-08,August,8,Password Reset,Medium,Closed,Jordan M.,Finance,35.0,24,No,2024-08-10,4.0
+TKT-0396,2024-01-06,January,1,VPN,Low,Closed,Lena B.,Marketing,11.0,72,Yes,2024-01-06,4.0
+TKT-0397,2024-07-13,July,7,Software,High,Closed,Lena B.,Sales,14.0,8,No,2024-07-14,4.0
+TKT-0398,2024-04-17,April,4,Access & Permissions,Low,Resolved,Priya S.,Sales,21.0,72,Yes,2024-04-18,4.0
+TKT-0399,2024-08-15,August,8,Software,Medium,Closed,Marcus T.,Operations,42.0,24,No,2024-08-17,4.0
+TKT-0400,2024-11-24,November,11,VPN,Low,Resolved,Jordan M.,Engineering,63.0,72,Yes,2024-11-27,4.0
+TKT-0401,2024-01-22,January,1,Network,Medium,Closed,Jordan M.,Finance,48.0,24,No,2024-01-24,5.0
+TKT-0402,2024-09-29,September,9,Email,Low,Closed,Priya S.,Marketing,128.0,72,No,2024-10-04,2.0
+TKT-0403,2024-10-30,October,10,Hardware,High,Closed,Marcus T.,Legal,4.0,8,Yes,2024-10-30,4.0
+TKT-0404,2024-07-22,July,7,Printer,Low,Resolved,Jordan M.,Engineering,20.0,72,Yes,2024-07-23,5.0
+TKT-0405,2024-03-05,March,3,Software,Medium,Closed,Priya S.,Operations,17.0,24,Yes,2024-03-06,4.0
+TKT-0406,2024-01-18,January,1,Password Reset,High,Resolved,Marcus T.,Engineering,1.0,8,Yes,2024-01-18,5.0
+TKT-0407,2024-03-10,March,3,VPN,Critical,Resolved,Priya S.,Marketing,1.0,2,Yes,2024-03-10,3.0
+TKT-0408,2024-12-21,December,12,Printer,High,Closed,Jordan M.,Sales,9.0,8,No,2024-12-22,5.0
+TKT-0409,2024-01-21,January,1,VPN,Low,Closed,Jordan M.,Engineering,133.0,72,No,2024-01-26,5.0
+TKT-0410,2024-10-27,October,10,Password Reset,High,Resolved,Jordan M.,Marketing,11.0,8,No,2024-10-27,3.0
+TKT-0411,2024-08-06,August,8,Password Reset,High,Resolved,Priya S.,Operations,8.0,8,Yes,2024-08-07,5.0
+TKT-0412,2024-10-22,October,10,VPN,High,Resolved,Jordan M.,HR,5.0,8,Yes,2024-10-22,4.0
+TKT-0413,2024-09-03,September,9,Hardware,High,Closed,Aisha R.,Legal,1.0,8,Yes,2024-09-04,5.0
+TKT-0414,2024-04-29,April,4,VPN,Low,Closed,Aisha R.,Finance,136.0,72,No,2024-05-05,5.0
+TKT-0415,2024-02-25,February,2,Access & Permissions,High,Resolved,Lena B.,Engineering,3.0,8,Yes,2024-02-25,5.0
+TKT-0416,2024-05-24,May,5,Software,Medium,Resolved,Lena B.,HR,48.0,24,No,2024-05-26,4.0
+TKT-0417,2024-06-02,June,6,Network,Low,Resolved,Priya S.,Marketing,16.0,72,Yes,2024-06-02,3.0
+TKT-0418,2024-05-02,May,5,Printer,Critical,Closed,Marcus T.,Engineering,4.0,2,No,2024-05-02,3.0
+TKT-0419,2024-01-30,January,1,Software,Critical,Closed,Priya S.,Finance,2.0,2,Yes,2024-01-30,3.0
+TKT-0420,2024-06-29,June,6,Access & Permissions,Medium,Resolved,Aisha R.,Marketing,8.0,24,Yes,2024-06-30,4.0
+TKT-0421,2024-11-27,November,11,Email,Low,Closed,Lena B.,Finance,41.0,72,Yes,2024-11-28,3.0
+TKT-0422,2024-11-28,November,11,Printer,Medium,Closed,Aisha R.,Sales,6.0,24,Yes,2024-11-28,1.0
+TKT-0423,2024-04-26,April,4,VPN,Low,Resolved,Aisha R.,Sales,45.0,72,Yes,2024-04-27,5.0
+TKT-0424,2024-04-07,April,4,Network,Low,Closed,Jordan M.,Finance,27.0,72,Yes,2024-04-08,2.0
+TKT-0425,2024-10-30,October,10,VPN,Critical,Resolved,Marcus T.,Operations,2.0,2,Yes,2024-10-30,4.0
+TKT-0426,2024-09-07,September,9,Software,Low,Closed,Jordan M.,Finance,67.0,72,Yes,2024-09-10,3.0
+TKT-0427,2024-09-07,September,9,Printer,Medium,Resolved,Jordan M.,Finance,9.0,24,Yes,2024-09-08,5.0
+TKT-0428,2024-01-20,January,1,VPN,Low,Closed,Aisha R.,Finance,111.0,72,No,2024-01-25,4.0
+TKT-0429,2024-06-14,June,6,Email,Low,Closed,Marcus T.,Engineering,55.0,72,Yes,2024-06-16,5.0
+TKT-0430,2024-01-14,January,1,Email,Medium,Resolved,Aisha R.,Engineering,40.0,24,No,2024-01-16,5.0
+TKT-0431,2024-07-05,July,7,VPN,Low,Resolved,Priya S.,Operations,72.0,72,Yes,2024-07-08,5.0
+TKT-0432,2024-07-23,July,7,VPN,Low,Closed,Marcus T.,Engineering,140.0,72,No,2024-07-29,4.0
+TKT-0433,2024-07-07,July,7,VPN,Medium,Resolved,Marcus T.,HR,37.0,24,No,2024-07-08,1.0
+TKT-0434,2024-08-19,August,8,Password Reset,Low,Resolved,Lena B.,Marketing,72.0,72,Yes,2024-08-22,5.0
+TKT-0435,2024-03-31,March,3,Access & Permissions,Critical,Resolved,Marcus T.,Sales,1.0,2,Yes,2024-03-31,5.0
+TKT-0436,2024-12-22,December,12,VPN,High,Resolved,Marcus T.,Legal,8.0,8,Yes,2024-12-22,5.0
+TKT-0437,2024-03-08,March,3,Printer,Low,Closed,Lena B.,Finance,82.0,72,No,2024-03-11,5.0
+TKT-0438,2024-05-16,May,5,Access & Permissions,Critical,Resolved,Aisha R.,Sales,2.0,2,Yes,2024-05-16,4.0
+TKT-0439,2024-07-09,July,7,Access & Permissions,Low,Resolved,Jordan M.,Sales,15.0,72,Yes,2024-07-10,4.0
+TKT-0440,2024-05-08,May,5,Printer,Critical,Closed,Priya S.,Legal,2.0,2,Yes,2024-05-08,5.0
+TKT-0441,2024-05-05,May,5,Network,Low,Resolved,Jordan M.,Legal,38.0,72,Yes,2024-05-07,4.0
+TKT-0442,2024-05-21,May,5,VPN,Critical,Closed,Lena B.,Finance,3.0,2,No,2024-05-21,4.0
+TKT-0443,2024-05-05,May,5,VPN,Low,Closed,Aisha R.,Operations,41.0,72,Yes,2024-05-06,4.0
+TKT-0444,2024-10-01,October,10,Network,Critical,Resolved,Aisha R.,Marketing,3.0,2,No,2024-10-01,5.0
+TKT-0445,2024-04-24,April,4,VPN,Low,Closed,Lena B.,Finance,1.0,72,Yes,2024-04-24,3.0
+TKT-0446,2024-05-03,May,5,Software,Critical,Closed,Aisha R.,HR,2.0,2,Yes,2024-05-03,4.0
+TKT-0447,2024-01-31,January,1,Software,Low,Resolved,Marcus T.,Engineering,82.0,72,No,2024-02-03,1.0
+TKT-0448,2024-03-22,March,3,Software,Low,Resolved,Jordan M.,Finance,18.0,72,Yes,2024-03-23,4.0
+TKT-0449,2024-10-11,October,10,Password Reset,Medium,Closed,Aisha R.,Marketing,11.0,24,Yes,2024-10-11,4.0
+TKT-0450,2024-02-09,February,2,Software,High,Resolved,Jordan M.,Marketing,8.0,8,Yes,2024-02-09,1.0
+TKT-0451,2024-04-11,April,4,VPN,Critical,Resolved,Priya S.,Operations,1.0,2,Yes,2024-04-11,2.0
+TKT-0452,2024-12-14,December,12,Password Reset,Critical,Resolved,Jordan M.,Engineering,3.0,2,No,2024-12-14,5.0
+TKT-0453,2024-03-05,March,3,Software,Medium,Resolved,Marcus T.,HR,28.0,24,No,2024-03-06,5.0
+TKT-0454,2024-06-07,June,6,Email,Medium,Closed,Marcus T.,Marketing,47.0,24,No,2024-06-09,3.0
+TKT-0455,2024-01-20,January,1,Network,Medium,Closed,Jordan M.,Marketing,36.0,24,No,2024-01-21,1.0
+TKT-0456,2024-02-04,February,2,Hardware,Low,Resolved,Priya S.,HR,123.0,72,No,2024-02-09,4.0
+TKT-0457,2024-02-01,February,2,VPN,Medium,Resolved,Aisha R.,Engineering,8.0,24,Yes,2024-02-02,5.0
+TKT-0458,2024-04-12,April,4,Printer,Low,Resolved,Aisha R.,Marketing,140.0,72,No,2024-04-18,3.0
+TKT-0459,2024-01-18,January,1,Email,Low,Resolved,Lena B.,Finance,120.0,72,No,2024-01-23,3.0
+TKT-0460,2024-09-27,September,9,VPN,Medium,Closed,Lena B.,HR,6.0,24,Yes,2024-09-27,4.0
+TKT-0461,2024-11-22,November,11,Password Reset,Medium,Resolved,Lena B.,HR,34.0,24,No,2024-11-23,4.0
+TKT-0462,2024-01-31,January,1,Network,Medium,Resolved,Jordan M.,Legal,46.0,24,No,2024-02-02,4.0
+TKT-0463,2024-03-05,March,3,VPN,Critical,Resolved,Jordan M.,Operations,2.0,2,Yes,2024-03-06,4.0
+TKT-0464,2024-11-15,November,11,Software,Medium,Resolved,Jordan M.,Engineering,39.0,24,No,2024-11-17,4.0
+TKT-0465,2024-08-02,August,8,Hardware,Medium,Resolved,Lena B.,Sales,18.0,24,Yes,2024-08-03,4.0
+TKT-0466,2024-06-11,June,6,Software,Low,Resolved,Jordan M.,Sales,39.0,72,Yes,2024-06-13,5.0
+TKT-0467,2024-11-01,November,11,VPN,Low,Closed,Marcus T.,Engineering,138.0,72,No,2024-11-06,5.0
+TKT-0468,2024-08-10,August,8,VPN,Medium,Resolved,Priya S.,Sales,3.0,24,Yes,2024-08-10,4.0
+TKT-0469,2024-09-26,September,9,Printer,Medium,Closed,Priya S.,Finance,26.0,24,No,2024-09-27,5.0
+TKT-0470,2024-12-23,December,12,Email,Low,Resolved,Marcus T.,Marketing,96.0,72,No,2024-12-27,5.0
+TKT-0471,2024-11-29,November,11,Access & Permissions,Medium,Closed,Priya S.,Marketing,7.0,24,Yes,2024-11-29,5.0
+TKT-0472,2024-06-21,June,6,VPN,High,Resolved,Lena B.,Operations,11.0,8,No,2024-06-21,2.0
+TKT-0473,2024-06-20,June,6,Printer,Low,Closed,Jordan M.,Sales,105.0,72,No,2024-06-24,5.0
+TKT-0474,2024-01-26,January,1,Hardware,Medium,Resolved,Priya S.,HR,33.0,24,No,2024-01-27,5.0
+TKT-0475,2024-03-18,March,3,Hardware,High,Resolved,Marcus T.,Operations,8.0,8,Yes,2024-03-19,3.0
+TKT-0476,2024-05-23,May,5,Software,High,Closed,Jordan M.,HR,13.0,8,No,2024-05-23,4.0
+TKT-0477,2024-08-18,August,8,Printer,Medium,Resolved,Marcus T.,HR,31.0,24,No,2024-08-19,5.0
+TKT-0478,2024-04-10,April,4,VPN,High,Resolved,Jordan M.,HR,3.0,8,Yes,2024-04-10,5.0
+TKT-0479,2024-10-29,October,10,Access & Permissions,Critical,Closed,Marcus T.,Operations,2.0,2,Yes,2024-10-29,4.0
+TKT-0480,2024-01-08,January,1,Network,High,Resolved,Priya S.,Sales,1.0,8,Yes,2024-01-08,5.0
+TKT-0481,2024-03-27,March,3,Email,Low,Closed,Aisha R.,Engineering,79.0,72,No,2024-03-31,5.0
+TKT-0482,2024-06-27,June,6,VPN,Low,Resolved,Lena B.,Finance,120.0,72,No,2024-07-02,1.0
+TKT-0483,2024-09-14,September,9,Email,Critical,Resolved,Marcus T.,Operations,3.0,2,No,2024-09-14,2.0
+TKT-0484,2024-01-25,January,1,Email,Medium,Closed,Marcus T.,Operations,18.0,24,Yes,2024-01-26,5.0
+TKT-0485,2024-12-12,December,12,Access & Permissions,Medium,Resolved,Jordan M.,Legal,13.0,24,Yes,2024-12-13,5.0
+TKT-0486,2024-11-10,November,11,Network,Medium,Resolved,Jordan M.,Operations,43.0,24,No,2024-11-12,4.0
+TKT-0487,2024-04-24,April,4,Hardware,Low,Resolved,Lena B.,Operations,108.0,72,No,2024-04-29,5.0
+TKT-0488,2024-11-12,November,11,Password Reset,Low,Closed,Marcus T.,Sales,57.0,72,Yes,2024-11-15,4.0
+TKT-0489,2024-03-07,March,3,Password Reset,High,Resolved,Priya S.,Operations,6.0,8,Yes,2024-03-07,3.0
+TKT-0490,2024-11-09,November,11,Printer,Medium,Closed,Jordan M.,HR,12.0,24,Yes,2024-11-10,4.0
+TKT-0491,2024-10-16,October,10,Printer,High,Closed,Marcus T.,Marketing,14.0,8,No,2024-10-16,4.0
+TKT-0492,2024-06-29,June,6,Software,High,Resolved,Aisha R.,HR,16.0,8,No,2024-06-29,4.0
+TKT-0493,2024-12-02,December,12,Hardware,Medium,Resolved,Priya S.,HR,34.0,24,No,2024-12-04,5.0
+TKT-0494,2024-05-13,May,5,Password Reset,Medium,Closed,Priya S.,Marketing,37.0,24,No,2024-05-14,5.0
+TKT-0495,2024-03-11,March,3,Network,High,Resolved,Marcus T.,Operations,16.0,8,No,2024-03-11,2.0
+TKT-0496,2024-06-24,June,6,Network,Low,Resolved,Aisha R.,Legal,44.0,72,Yes,2024-06-26,5.0
+TKT-0497,2024-02-04,February,2,VPN,Low,Closed,Aisha R.,Engineering,112.0,72,No,2024-02-08,4.0
+TKT-0498,2024-01-15,January,1,Hardware,Medium,Resolved,Marcus T.,Legal,47.0,24,No,2024-01-17,5.0
+TKT-0499,2024-03-15,March,3,Access & Permissions,Low,Closed,Priya S.,Operations,2.0,72,Yes,2024-03-15,5.0
+TKT-0500,2024-05-01,May,5,Email,Low,Resolved,Priya S.,Finance,99.0,72,No,2024-05-05,5.0
+TKT-0501,2024-04-25,April,4,Printer,Critical,Closed,Aisha R.,Operations,4.0,2,No,2024-04-25,5.0
+TKT-0502,2024-05-13,May,5,Access & Permissions,Critical,Resolved,Priya S.,Legal,4.0,2,No,2024-05-13,4.0
+TKT-0503,2024-03-29,March,3,Hardware,Low,Resolved,Lena B.,Sales,34.0,72,Yes,2024-03-31,3.0
+TKT-0504,2024-05-22,May,5,Email,High,Resolved,Lena B.,Sales,2.0,8,Yes,2024-05-22,1.0
+TKT-0505,2024-01-19,January,1,Hardware,Medium,Closed,Jordan M.,Engineering,42.0,24,No,2024-01-21,4.0
+TKT-0506,2024-02-17,February,2,Access & Permissions,Medium,Closed,Jordan M.,Marketing,31.0,24,No,2024-02-19,4.0
+TKT-0507,2024-02-09,February,2,Network,Medium,Closed,Aisha R.,Legal,18.0,24,Yes,2024-02-09,5.0
+TKT-0508,2024-07-17,July,7,Software,High,Resolved,Aisha R.,HR,4.0,8,Yes,2024-07-17,4.0
+TKT-0509,2024-10-29,October,10,Printer,Low,Closed,Aisha R.,Marketing,134.0,72,No,2024-11-03,3.0
+TKT-0510,2024-07-31,July,7,Password Reset,Medium,Closed,Marcus T.,HR,14.0,24,Yes,2024-08-01,1.0
+TKT-0511,2024-09-17,September,9,Password Reset,Low,Closed,Priya S.,Finance,29.0,72,Yes,2024-09-19,5.0
+TKT-0512,2024-01-30,January,1,Access & Permissions,High,Closed,Aisha R.,Marketing,4.0,8,Yes,2024-01-30,3.0
+TKT-0513,2024-01-20,January,1,Email,Low,Closed,Marcus T.,Legal,45.0,72,Yes,2024-01-22,5.0
+TKT-0514,2024-06-14,June,6,Hardware,High,Closed,Jordan M.,Legal,4.0,8,Yes,2024-06-14,2.0
+TKT-0515,2024-09-08,September,9,Email,Low,Closed,Jordan M.,Marketing,92.0,72,No,2024-09-12,5.0
+TKT-0516,2024-03-12,March,3,Email,Low,Closed,Aisha R.,Operations,103.0,72,No,2024-03-16,5.0
+TKT-0517,2024-11-06,November,11,Hardware,Medium,Resolved,Priya S.,Finance,11.0,24,Yes,2024-11-07,4.0
+TKT-0518,2024-08-17,August,8,Network,Medium,Closed,Lena B.,Engineering,37.0,24,No,2024-08-18,5.0
+TKT-0519,2024-08-25,August,8,Password Reset,Low,Resolved,Jordan M.,Engineering,34.0,72,Yes,2024-08-26,4.0
+TKT-0520,2024-01-25,January,1,Access & Permissions,Low,Resolved,Marcus T.,Sales,81.0,72,No,2024-01-28,4.0
+TKT-0521,2024-09-29,September,9,Access & Permissions,Medium,Closed,Aisha R.,Marketing,28.0,24,No,2024-09-30,5.0
+TKT-0522,2024-09-06,September,9,Hardware,Medium,Closed,Jordan M.,Operations,36.0,24,No,2024-09-07,5.0
+TKT-0523,2024-07-15,July,7,Software,High,Closed,Aisha R.,Marketing,16.0,8,No,2024-07-16,3.0
+TKT-0524,2024-04-18,April,4,VPN,Low,Resolved,Aisha R.,Legal,58.0,72,Yes,2024-04-20,3.0
+TKT-0525,2024-06-27,June,6,Password Reset,Medium,Resolved,Aisha R.,Marketing,37.0,24,No,2024-06-28,2.0
+TKT-0526,2024-07-12,July,7,VPN,High,Resolved,Jordan M.,Sales,1.0,8,Yes,2024-07-12,4.0
+TKT-0527,2024-11-16,November,11,Access & Permissions,Low,Closed,Aisha R.,Marketing,78.0,72,No,2024-11-20,4.0
+TKT-0528,2024-01-22,January,1,Password Reset,High,Resolved,Marcus T.,Operations,15.0,8,No,2024-01-22,4.0
+TKT-0529,2024-02-07,February,2,Printer,High,Resolved,Marcus T.,Sales,8.0,8,Yes,2024-02-08,4.0
+TKT-0530,2024-09-29,September,9,VPN,Low,Resolved,Jordan M.,Marketing,43.0,72,Yes,2024-10-01,4.0
+TKT-0531,2024-03-13,March,3,Access & Permissions,Low,Resolved,Marcus T.,Finance,101.0,72,No,2024-03-18,5.0
+TKT-0532,2024-01-19,January,1,Password Reset,Critical,Closed,Aisha R.,Operations,1.0,2,Yes,2024-01-19,4.0
+TKT-0533,2024-07-14,July,7,Hardware,Low,Resolved,Lena B.,Engineering,128.0,72,No,2024-07-20,5.0
+TKT-0534,2024-07-06,July,7,Network,Critical,Closed,Priya S.,Finance,2.0,2,Yes,2024-07-06,4.0
+TKT-0535,2024-08-21,August,8,VPN,Medium,Resolved,Aisha R.,Sales,21.0,24,Yes,2024-08-22,5.0
+TKT-0536,2024-10-23,October,10,Email,Low,Closed,Aisha R.,Legal,102.0,72,No,2024-10-27,2.0
+TKT-0537,2024-06-09,June,6,Printer,Medium,Resolved,Lena B.,Operations,48.0,24,No,2024-06-11,3.0
+TKT-0538,2024-03-22,March,3,Network,Medium,Closed,Priya S.,Sales,19.0,24,Yes,2024-03-23,4.0
+TKT-0539,2024-09-04,September,9,Password Reset,Medium,Closed,Lena B.,Sales,8.0,24,Yes,2024-09-04,5.0
+TKT-0540,2024-10-02,October,10,Email,Medium,Closed,Aisha R.,Legal,48.0,24,No,2024-10-04,1.0
+TKT-0541,2024-02-11,February,2,Hardware,Low,Resolved,Priya S.,Marketing,38.0,72,Yes,2024-02-12,5.0
+TKT-0542,2024-03-03,March,3,Hardware,Critical,Resolved,Marcus T.,HR,3.0,2,No,2024-03-03,5.0
+TKT-0543,2024-01-13,January,1,Access & Permissions,Medium,Resolved,Lena B.,Engineering,29.0,24,No,2024-01-14,3.0
+TKT-0544,2024-10-31,October,10,Hardware,High,Closed,Aisha R.,Engineering,10.0,8,No,2024-11-01,4.0
+TKT-0545,2024-11-02,November,11,Hardware,Critical,Closed,Jordan M.,Operations,3.0,2,No,2024-11-02,3.0
+TKT-0546,2024-08-29,August,8,Printer,High,Closed,Lena B.,Sales,15.0,8,No,2024-08-29,5.0
+TKT-0547,2024-03-17,March,3,Network,High,Resolved,Jordan M.,HR,7.0,8,Yes,2024-03-17,5.0
+TKT-0548,2024-10-12,October,10,Email,Medium,Resolved,Lena B.,Marketing,25.0,24,No,2024-10-13,2.0
+TKT-0549,2024-08-14,August,8,Network,High,Resolved,Jordan M.,HR,1.0,8,Yes,2024-08-14,5.0
+TKT-0550,2024-08-19,August,8,Printer,Low,Resolved,Jordan M.,Legal,78.0,72,No,2024-08-23,5.0
+TKT-0551,2024-07-23,July,7,Network,Low,Resolved,Aisha R.,Sales,48.0,72,Yes,2024-07-25,4.0
+TKT-0552,2024-02-05,February,2,Printer,Medium,Closed,Marcus T.,Marketing,14.0,24,Yes,2024-02-06,3.0
+TKT-0553,2024-10-19,October,10,Hardware,Medium,Closed,Jordan M.,Operations,31.0,24,No,2024-10-20,4.0
+TKT-0554,2024-04-03,April,4,Printer,Critical,Closed,Aisha R.,Legal,2.0,2,Yes,2024-04-03,5.0
+TKT-0555,2024-05-29,May,5,Printer,Low,Resolved,Lena B.,Legal,73.0,72,No,2024-06-01,4.0
+TKT-0556,2024-07-08,July,7,Software,Low,Resolved,Jordan M.,HR,50.0,72,Yes,2024-07-10,5.0
+TKT-0557,2024-10-27,October,10,Access & Permissions,Medium,Closed,Priya S.,Legal,1.0,24,Yes,2024-10-27,5.0
+TKT-0558,2024-11-20,November,11,VPN,Low,Closed,Jordan M.,Operations,138.0,72,No,2024-11-26,5.0
+TKT-0559,2024-01-10,January,1,Software,Medium,Resolved,Jordan M.,HR,22.0,24,Yes,2024-01-11,5.0
+TKT-0560,2024-08-04,August,8,VPN,Low,Closed,Aisha R.,Engineering,59.0,72,Yes,2024-08-07,4.0
+TKT-0561,2024-06-17,June,6,Hardware,Medium,Closed,Lena B.,Finance,25.0,24,No,2024-06-18,5.0
+TKT-0562,2024-08-15,August,8,Software,Low,Resolved,Marcus T.,Legal,19.0,72,Yes,2024-08-16,5.0
+TKT-0563,2024-08-23,August,8,Hardware,Low,Resolved,Aisha R.,HR,113.0,72,No,2024-08-28,4.0
+TKT-0564,2024-02-22,February,2,Network,High,Closed,Marcus T.,Operations,10.0,8,No,2024-02-23,5.0
+TKT-0565,2024-11-04,November,11,Hardware,High,Closed,Lena B.,Legal,12.0,8,No,2024-11-05,4.0
+TKT-0566,2024-02-17,February,2,Software,Low,Resolved,Marcus T.,HR,101.0,72,No,2024-02-22,5.0
+TKT-0567,2024-12-16,December,12,Network,High,Resolved,Priya S.,HR,7.0,8,Yes,2024-12-17,3.0
+TKT-0568,2024-11-20,November,11,Hardware,Low,Resolved,Lena B.,Engineering,30.0,72,Yes,2024-11-21,4.0
+TKT-0569,2024-01-29,January,1,Access & Permissions,Low,Resolved,Lena B.,Engineering,18.0,72,Yes,2024-01-30,5.0
+TKT-0570,2024-05-18,May,5,Software,Low,Resolved,Priya S.,Marketing,61.0,72,Yes,2024-05-21,4.0
+TKT-0571,2024-05-07,May,5,Network,Medium,Closed,Lena B.,Sales,20.0,24,Yes,2024-05-08,4.0
+TKT-0572,2024-05-02,May,5,Access & Permissions,Critical,Resolved,Priya S.,Operations,2.0,2,Yes,2024-05-02,5.0
+TKT-0573,2024-06-18,June,6,Printer,Low,Resolved,Aisha R.,Engineering,93.0,72,No,2024-06-22,4.0
+TKT-0574,2024-10-27,October,10,Software,Medium,Resolved,Marcus T.,Legal,36.0,24,No,2024-10-29,5.0
+TKT-0575,2024-12-12,December,12,Software,Medium,Closed,Jordan M.,Finance,17.0,24,Yes,2024-12-12,5.0
+TKT-0576,2024-09-02,September,9,Access & Permissions,Low,Closed,Jordan M.,Sales,104.0,72,No,2024-09-06,3.0
+TKT-0577,2024-12-13,December,12,Network,Critical,Closed,Marcus T.,Engineering,4.0,2,No,2024-12-13,3.0
+TKT-0578,2024-10-26,October,10,Software,Medium,Resolved,Aisha R.,Marketing,19.0,24,Yes,2024-10-27,4.0
+TKT-0579,2024-09-14,September,9,Network,Low,Closed,Aisha R.,HR,43.0,72,Yes,2024-09-16,3.0
+TKT-0580,2024-08-07,August,8,Password Reset,Medium,Closed,Marcus T.,Finance,10.0,24,Yes,2024-08-08,3.0
+TKT-0581,2024-07-08,July,7,Hardware,Low,Resolved,Priya S.,Sales,68.0,72,Yes,2024-07-11,5.0
+TKT-0582,2024-05-20,May,5,Hardware,Medium,Closed,Marcus T.,Finance,30.0,24,No,2024-05-21,5.0
+TKT-0583,2024-07-21,July,7,Email,Medium,Closed,Lena B.,Sales,18.0,24,Yes,2024-07-22,4.0
+TKT-0584,2024-05-26,May,5,Software,Medium,Resolved,Lena B.,Marketing,24.0,24,Yes,2024-05-27,4.0
+TKT-0585,2024-12-18,December,12,Printer,Low,Resolved,Aisha R.,Legal,104.0,72,No,2024-12-22,4.0
+TKT-0586,2024-08-22,August,8,Access & Permissions,Low,Resolved,Jordan M.,Sales,36.0,72,Yes,2024-08-24,4.0
+TKT-0587,2024-03-23,March,3,Software,Low,Resolved,Priya S.,Engineering,41.0,72,Yes,2024-03-24,5.0
+TKT-0588,2024-10-06,October,10,Network,Low,Resolved,Aisha R.,Finance,123.0,72,No,2024-10-11,3.0
+TKT-0589,2024-02-19,February,2,Hardware,Medium,Resolved,Lena B.,HR,11.0,24,Yes,2024-02-20,2.0
+TKT-0590,2024-04-10,April,4,Hardware,Critical,Resolved,Marcus T.,Finance,4.0,2,No,2024-04-10,3.0
+TKT-0591,2024-08-23,August,8,VPN,Critical,Resolved,Lena B.,HR,4.0,2,No,2024-08-23,5.0
+TKT-0592,2024-11-14,November,11,Printer,High,Resolved,Aisha R.,Sales,9.0,8,No,2024-11-15,4.0
+TKT-0593,2024-03-30,March,3,Access & Permissions,Medium,Resolved,Lena B.,Legal,9.0,24,Yes,2024-03-30,5.0
+TKT-0594,2024-09-22,September,9,Network,Medium,Closed,Aisha R.,Sales,10.0,24,Yes,2024-09-23,4.0
+TKT-0595,2024-12-06,December,12,Network,High,Resolved,Lena B.,Sales,4.0,8,Yes,2024-12-07,5.0
+TKT-0596,2024-12-14,December,12,Printer,Critical,Resolved,Jordan M.,Operations,4.0,2,No,2024-12-14,4.0
+TKT-0597,2024-03-30,March,3,VPN,Critical,Closed,Marcus T.,Sales,4.0,2,No,2024-03-30,5.0
+TKT-0598,2024-12-18,December,12,Email,High,Resolved,Aisha R.,Legal,4.0,8,Yes,2024-12-18,3.0
+TKT-0599,2024-11-29,November,11,Access & Permissions,Low,Resolved,Jordan M.,Operations,140.0,72,No,2024-12-05,5.0
+TKT-0600,2024-01-03,January,1,VPN,Medium,Resolved,Priya S.,Operations,8.0,24,Yes,2024-01-04,5.0
+TKT-0601,2024-06-07,June,6,Email,Medium,Resolved,Marcus T.,Legal,10.0,24,Yes,2024-06-08,4.0
+TKT-0602,2024-08-07,August,8,VPN,Medium,Closed,Priya S.,Engineering,18.0,24,Yes,2024-08-08,4.0
+TKT-0603,2024-08-04,August,8,Password Reset,Medium,Resolved,Marcus T.,Marketing,24.0,24,Yes,2024-08-05,4.0
+TKT-0604,2024-10-27,October,10,Software,High,Closed,Priya S.,Engineering,5.0,8,Yes,2024-10-27,5.0
+TKT-0605,2024-03-03,March,3,Printer,Low,Resolved,Lena B.,Sales,131.0,72,No,2024-03-09,5.0
+TKT-0606,2024-10-01,October,10,Hardware,Low,Closed,Jordan M.,Legal,100.0,72,No,2024-10-05,2.0
+TKT-0607,2024-12-25,December,12,Access & Permissions,Medium,Resolved,Marcus T.,Finance,6.0,24,Yes,2024-12-25,4.0
+TKT-0608,2024-10-08,October,10,Email,Medium,Closed,Lena B.,Finance,26.0,24,No,2024-10-09,5.0
+TKT-0609,2024-11-14,November,11,Access & Permissions,Low,Resolved,Lena B.,Marketing,127.0,72,No,2024-11-19,3.0
+TKT-0610,2024-10-31,October,10,Network,Medium,Closed,Jordan M.,Marketing,34.0,24,No,2024-11-01,3.0
+TKT-0611,2024-01-01,January,1,VPN,Critical,Closed,Marcus T.,Operations,1.0,2,Yes,2024-01-01,4.0
+TKT-0612,2024-08-15,August,8,Software,Low,Closed,Jordan M.,Sales,4.0,72,Yes,2024-08-15,3.0
+TKT-0613,2024-11-18,November,11,Email,Medium,Resolved,Priya S.,Sales,38.0,24,No,2024-11-19,5.0
+TKT-0614,2024-06-25,June,6,VPN,Critical,Resolved,Lena B.,Finance,1.0,2,Yes,2024-06-25,4.0
+TKT-0615,2024-07-14,July,7,Email,Low,Closed,Lena B.,Legal,30.0,72,Yes,2024-07-15,5.0
+TKT-0616,2024-04-07,April,4,Access & Permissions,Medium,Resolved,Marcus T.,Legal,25.0,24,No,2024-04-08,4.0
+TKT-0617,2024-06-27,June,6,Email,High,Resolved,Jordan M.,Engineering,1.0,8,Yes,2024-06-27,4.0
+TKT-0618,2024-03-26,March,3,VPN,Medium,Closed,Marcus T.,Sales,15.0,24,Yes,2024-03-27,4.0
+TKT-0619,2024-09-29,September,9,VPN,High,Resolved,Marcus T.,Finance,8.0,8,Yes,2024-09-29,4.0
+TKT-0620,2024-03-10,March,3,Email,Medium,Resolved,Priya S.,Operations,23.0,24,Yes,2024-03-11,5.0
+TKT-0621,2024-12-19,December,12,Access & Permissions,Low,Resolved,Marcus T.,HR,52.0,72,Yes,2024-12-21,3.0
+TKT-0622,2024-11-20,November,11,Software,Low,Resolved,Jordan M.,Finance,92.0,72,No,2024-11-24,5.0
+TKT-0623,2024-09-14,September,9,Hardware,Medium,Closed,Aisha R.,Marketing,1.0,24,Yes,2024-09-14,4.0
+TKT-0624,2024-07-10,July,7,Email,High,Resolved,Aisha R.,HR,9.0,8,No,2024-07-10,5.0
+TKT-0625,2024-02-19,February,2,Hardware,Low,Resolved,Lena B.,Marketing,109.0,72,No,2024-02-24,4.0
+TKT-0626,2024-09-23,September,9,Password Reset,High,Closed,Marcus T.,Operations,15.0,8,No,2024-09-24,1.0
+TKT-0627,2024-09-18,September,9,Email,Low,Resolved,Priya S.,Sales,26.0,72,Yes,2024-09-19,3.0
+TKT-0628,2024-04-14,April,4,Network,Medium,Resolved,Aisha R.,Engineering,40.0,24,No,2024-04-16,3.0
+TKT-0629,2024-09-29,September,9,Email,High,Closed,Aisha R.,HR,12.0,8,No,2024-09-29,4.0
+TKT-0630,2024-08-11,August,8,Access & Permissions,Medium,Closed,Lena B.,Engineering,7.0,24,Yes,2024-08-11,5.0
+TKT-0631,2024-03-17,March,3,Hardware,Low,Resolved,Priya S.,Engineering,39.0,72,Yes,2024-03-18,4.0
+TKT-0632,2024-12-12,December,12,Email,High,Closed,Marcus T.,Sales,11.0,8,No,2024-12-13,5.0
+TKT-0633,2024-01-19,January,1,Access & Permissions,Medium,Resolved,Marcus T.,Engineering,45.0,24,No,2024-01-21,5.0
+TKT-0634,2024-02-07,February,2,Printer,Medium,Resolved,Lena B.,Sales,22.0,24,Yes,2024-02-08,5.0
+TKT-0635,2024-04-10,April,4,Access & Permissions,Medium,Resolved,Lena B.,Sales,27.0,24,No,2024-04-11,4.0
+TKT-0636,2024-07-28,July,7,Password Reset,Low,Resolved,Aisha R.,Finance,73.0,72,No,2024-07-31,4.0
+TKT-0637,2024-04-21,April,4,Printer,Medium,Closed,Aisha R.,Operations,10.0,24,Yes,2024-04-21,4.0
+TKT-0638,2024-06-06,June,6,Printer,High,Resolved,Priya S.,Marketing,3.0,8,Yes,2024-06-06,4.0
+TKT-0639,2024-04-23,April,4,Password Reset,High,Resolved,Marcus T.,Operations,13.0,8,No,2024-04-23,4.0
+TKT-0640,2024-06-23,June,6,Network,Medium,Closed,Priya S.,Operations,12.0,24,Yes,2024-06-24,3.0
+TKT-0641,2024-10-15,October,10,VPN,High,Resolved,Jordan M.,Finance,3.0,8,Yes,2024-10-16,2.0
+TKT-0642,2024-12-07,December,12,VPN,Medium,Resolved,Lena B.,Legal,4.0,24,Yes,2024-12-07,5.0
+TKT-0643,2024-02-10,February,2,VPN,Low,Resolved,Marcus T.,HR,40.0,72,Yes,2024-02-12,3.0
+TKT-0644,2024-04-20,April,4,Network,Medium,Resolved,Jordan M.,Finance,9.0,24,Yes,2024-04-20,5.0
+TKT-0645,2024-11-30,November,11,Email,Critical,Resolved,Lena B.,Engineering,4.0,2,No,2024-11-30,2.0
+TKT-0646,2024-09-27,September,9,VPN,Medium,Resolved,Lena B.,Operations,38.0,24,No,2024-09-29,4.0
+TKT-0647,2024-04-30,April,4,Software,Critical,Resolved,Aisha R.,Marketing,4.0,2,No,2024-04-30,4.0
+TKT-0648,2024-04-10,April,4,Network,Low,Resolved,Marcus T.,Marketing,3.0,72,Yes,2024-04-11,4.0
+TKT-0649,2024-01-04,January,1,Password Reset,Medium,Closed,Marcus T.,Finance,32.0,24,No,2024-01-05,5.0
+TKT-0650,2024-11-05,November,11,Printer,Low,Closed,Priya S.,Engineering,60.0,72,Yes,2024-11-08,5.0
+TKT-0651,2024-06-18,June,6,VPN,Medium,Closed,Aisha R.,HR,11.0,24,Yes,2024-06-19,3.0
+TKT-0652,2024-06-12,June,6,Email,Medium,Closed,Marcus T.,Operations,34.0,24,No,2024-06-14,5.0
+TKT-0653,2024-11-10,November,11,Network,Low,Closed,Priya S.,Marketing,49.0,72,Yes,2024-11-12,2.0
+TKT-0654,2024-06-25,June,6,Password Reset,Medium,Closed,Priya S.,Marketing,18.0,24,Yes,2024-06-26,1.0
+TKT-0655,2024-01-20,January,1,Software,Critical,Resolved,Marcus T.,Marketing,1.0,2,Yes,2024-01-20,2.0
+TKT-0656,2024-06-19,June,6,Hardware,High,Resolved,Aisha R.,HR,8.0,8,Yes,2024-06-19,4.0
+TKT-0657,2024-05-01,May,5,Password Reset,High,Closed,Jordan M.,Marketing,16.0,8,No,2024-05-01,2.0
+TKT-0658,2024-10-18,October,10,VPN,Critical,Resolved,Jordan M.,Sales,1.0,2,Yes,2024-10-18,4.0
+TKT-0659,2024-03-15,March,3,Hardware,High,Closed,Jordan M.,Legal,9.0,8,No,2024-03-16,5.0
+TKT-0660,2024-05-29,May,5,Hardware,High,Resolved,Priya S.,Engineering,15.0,8,No,2024-05-30,5.0
+TKT-0661,2024-02-06,February,2,Email,Medium,Resolved,Marcus T.,HR,14.0,24,Yes,2024-02-07,4.0
+TKT-0662,2024-01-17,January,1,Email,High,Resolved,Priya S.,Marketing,4.0,8,Yes,2024-01-17,5.0
+TKT-0663,2024-12-01,December,12,VPN,Medium,Resolved,Marcus T.,Finance,8.0,24,Yes,2024-12-01,3.0
+TKT-0664,2024-04-17,April,4,Hardware,Medium,Closed,Jordan M.,Sales,26.0,24,No,2024-04-18,5.0
+TKT-0665,2024-07-03,July,7,Software,Medium,Resolved,Priya S.,HR,10.0,24,Yes,2024-07-03,4.0
+TKT-0666,2024-09-23,September,9,Printer,Medium,Resolved,Priya S.,Operations,41.0,24,No,2024-09-25,4.0
+TKT-0667,2024-02-11,February,2,Printer,Low,Resolved,Aisha R.,Operations,60.0,72,Yes,2024-02-14,3.0
+TKT-0668,2024-09-24,September,9,Hardware,Medium,Resolved,Aisha R.,Operations,47.0,24,No,2024-09-26,4.0
+TKT-0669,2024-04-24,April,4,Network,Medium,Resolved,Lena B.,Marketing,32.0,24,No,2024-04-25,4.0
+TKT-0670,2024-06-30,June,6,Network,Low,Resolved,Aisha R.,Marketing,142.0,72,No,2024-07-06,5.0
+TKT-0671,2024-07-29,July,7,VPN,Medium,Closed,Priya S.,Finance,1.0,24,Yes,2024-07-29,4.0
+TKT-0672,2024-05-21,May,5,Software,High,Resolved,Lena B.,Legal,8.0,8,Yes,2024-05-21,4.0
+TKT-0673,2024-07-22,July,7,Email,Medium,Resolved,Marcus T.,Engineering,36.0,24,No,2024-07-24,4.0
+TKT-0674,2024-02-12,February,2,Network,Low,Resolved,Priya S.,Legal,18.0,72,Yes,2024-02-13,1.0
+TKT-0675,2024-02-11,February,2,VPN,Medium,Resolved,Aisha R.,Sales,7.0,24,Yes,2024-02-11,4.0
+TKT-0676,2024-08-17,August,8,Software,Low,Resolved,Jordan M.,HR,94.0,72,No,2024-08-21,5.0
+TKT-0677,2024-12-26,December,12,Hardware,High,Resolved,Marcus T.,Sales,3.0,8,Yes,2024-12-26,5.0
+TKT-0678,2024-12-11,December,12,Hardware,Medium,Closed,Lena B.,Marketing,24.0,24,Yes,2024-12-12,4.0
+TKT-0679,2024-10-12,October,10,Access & Permissions,Low,Resolved,Lena B.,Finance,78.0,72,No,2024-10-15,2.0
+TKT-0680,2024-03-30,March,3,Access & Permissions,Medium,Resolved,Lena B.,Operations,13.0,24,Yes,2024-03-31,5.0
+TKT-0681,2024-08-04,August,8,Printer,High,Closed,Aisha R.,Operations,14.0,8,No,2024-08-05,5.0
+TKT-0682,2024-12-08,December,12,Printer,Low,Resolved,Priya S.,Sales,47.0,72,Yes,2024-12-10,5.0
+TKT-0683,2024-06-21,June,6,Printer,Critical,Resolved,Marcus T.,Engineering,3.0,2,No,2024-06-21,5.0
+TKT-0684,2024-06-16,June,6,Access & Permissions,High,Closed,Aisha R.,Legal,11.0,8,No,2024-06-16,4.0
+TKT-0685,2024-10-16,October,10,VPN,Low,Resolved,Jordan M.,Operations,116.0,72,No,2024-10-20,1.0
+TKT-0686,2024-04-20,April,4,Email,Medium,Resolved,Jordan M.,Marketing,34.0,24,No,2024-04-21,5.0
+TKT-0687,2024-03-24,March,3,Email,High,Closed,Lena B.,Sales,1.0,8,Yes,2024-03-24,4.0
+TKT-0688,2024-12-25,December,12,Printer,Medium,Resolved,Priya S.,HR,7.0,24,Yes,2024-12-25,3.0
+TKT-0689,2024-12-11,December,12,Email,Medium,Resolved,Jordan M.,Sales,15.0,24,Yes,2024-12-12,4.0
+TKT-0690,2024-12-22,December,12,Password Reset,Low,Closed,Priya S.,Engineering,20.0,72,Yes,2024-12-23,5.0
+TKT-0691,2024-09-24,September,9,Email,High,Resolved,Jordan M.,Operations,4.0,8,Yes,2024-09-24,5.0
+TKT-0692,2024-05-28,May,5,Printer,Low,Closed,Marcus T.,Legal,15.0,72,Yes,2024-05-28,4.0
+TKT-0693,2024-12-27,December,12,Hardware,High,Closed,Aisha R.,Finance,8.0,8,Yes,2024-12-27,4.0
+TKT-0694,2024-01-16,January,1,Access & Permissions,Medium,Resolved,Priya S.,Finance,37.0,24,No,2024-01-18,5.0
+TKT-0695,2024-06-01,June,6,Email,Critical,Resolved,Aisha R.,HR,1.0,2,Yes,2024-06-01,2.0
+TKT-0696,2024-02-02,February,2,VPN,Medium,Resolved,Marcus T.,Finance,48.0,24,No,2024-02-04,4.0
+TKT-0697,2024-06-17,June,6,Password Reset,High,Closed,Lena B.,HR,5.0,8,Yes,2024-06-17,4.0
+TKT-0698,2024-09-10,September,9,Access & Permissions,Medium,Closed,Priya S.,Finance,36.0,24,No,2024-09-11,3.0
+TKT-0699,2024-06-16,June,6,VPN,Medium,Resolved,Aisha R.,Marketing,37.0,24,No,2024-06-17,4.0
+TKT-0700,2024-05-04,May,5,Email,Medium,Resolved,Priya S.,Marketing,42.0,24,No,2024-05-06,4.0
+TKT-0701,2024-11-07,November,11,Access & Permissions,Medium,Resolved,Priya S.,Operations,10.0,24,Yes,2024-11-08,4.0
+TKT-0702,2024-10-21,October,10,Hardware,High,Resolved,Priya S.,Sales,3.0,8,Yes,2024-10-21,5.0
+TKT-0703,2024-12-03,December,12,Software,High,Resolved,Marcus T.,Engineering,10.0,8,No,2024-12-03,4.0
+TKT-0704,2024-05-08,May,5,Email,Low,Resolved,Lena B.,Engineering,138.0,72,No,2024-05-14,4.0
+TKT-0705,2024-02-24,February,2,Hardware,Medium,Resolved,Marcus T.,HR,43.0,24,No,2024-02-26,2.0
+TKT-0706,2024-03-18,March,3,Hardware,High,Resolved,Jordan M.,Engineering,9.0,8,No,2024-03-19,5.0
+TKT-0707,2024-09-14,September,9,Hardware,High,Closed,Marcus T.,Legal,12.0,8,No,2024-09-14,5.0
+TKT-0708,2024-05-30,May,5,Software,Low,Resolved,Marcus T.,Engineering,98.0,72,No,2024-06-03,5.0
+TKT-0709,2024-07-25,July,7,Password Reset,Low,Resolved,Lena B.,Operations,51.0,72,Yes,2024-07-27,1.0
+TKT-0710,2024-04-06,April,4,VPN,Critical,Resolved,Priya S.,Finance,3.0,2,No,2024-04-06,4.0
+TKT-0711,2024-05-16,May,5,Email,Medium,Resolved,Jordan M.,Operations,20.0,24,Yes,2024-05-17,3.0
+TKT-0712,2024-05-30,May,5,Email,High,Closed,Priya S.,HR,1.0,8,Yes,2024-05-30,4.0
+TKT-0713,2024-06-01,June,6,Access & Permissions,Medium,Closed,Aisha R.,HR,6.0,24,Yes,2024-06-01,4.0
+TKT-0714,2024-06-14,June,6,Network,Critical,Resolved,Priya S.,Operations,3.0,2,No,2024-06-14,2.0
+TKT-0715,2024-07-29,July,7,Email,Medium,Closed,Lena B.,HR,13.0,24,Yes,2024-07-29,4.0
+TKT-0716,2024-12-19,December,12,Network,Critical,Closed,Marcus T.,Finance,2.0,2,Yes,2024-12-19,4.0
+TKT-0717,2024-10-06,October,10,Network,Low,Closed,Jordan M.,Legal,82.0,72,No,2024-10-09,4.0
+TKT-0718,2024-06-09,June,6,Email,Critical,Resolved,Priya S.,Legal,3.0,2,No,2024-06-09,3.0
+TKT-0719,2024-02-21,February,2,Access & Permissions,Low,Closed,Lena B.,HR,69.0,72,Yes,2024-02-23,3.0
+TKT-0720,2024-01-11,January,1,Network,Medium,Closed,Lena B.,Legal,45.0,24,No,2024-01-13,4.0
+TKT-0721,2024-10-03,October,10,Password Reset,Medium,Closed,Aisha R.,HR,12.0,24,Yes,2024-10-04,3.0
+TKT-0722,2024-03-28,March,3,VPN,Low,Closed,Priya S.,Operations,4.0,72,Yes,2024-03-29,5.0
+TKT-0723,2024-03-19,March,3,Password Reset,High,Resolved,Lena B.,Engineering,3.0,8,Yes,2024-03-19,5.0
+TKT-0724,2024-12-02,December,12,Hardware,Medium,Resolved,Lena B.,Operations,16.0,24,Yes,2024-12-03,5.0
+TKT-0725,2024-10-06,October,10,Hardware,Medium,Closed,Lena B.,Finance,40.0,24,No,2024-10-08,4.0
+TKT-0726,2024-11-17,November,11,VPN,High,Resolved,Jordan M.,Sales,8.0,8,Yes,2024-11-17,4.0
+TKT-0727,2024-10-24,October,10,Password Reset,Medium,Resolved,Aisha R.,Marketing,4.0,24,Yes,2024-10-24,5.0
+TKT-0728,2024-04-21,April,4,Hardware,Medium,Resolved,Lena B.,HR,28.0,24,No,2024-04-22,4.0
+TKT-0729,2024-09-07,September,9,Network,Medium,Resolved,Lena B.,Operations,47.0,24,No,2024-09-09,4.0
+TKT-0730,2024-06-01,June,6,Password Reset,Medium,Resolved,Lena B.,Operations,29.0,24,No,2024-06-02,5.0
+TKT-0731,2024-12-08,December,12,Network,Medium,Resolved,Jordan M.,Finance,17.0,24,Yes,2024-12-09,2.0
+TKT-0732,2024-06-23,June,6,VPN,Medium,Resolved,Lena B.,Sales,6.0,24,Yes,2024-06-23,5.0
+TKT-0733,2024-05-27,May,5,Printer,Medium,Closed,Lena B.,Legal,3.0,24,Yes,2024-05-27,5.0
+TKT-0734,2024-02-28,February,2,Hardware,Low,Resolved,Aisha R.,Marketing,38.0,72,Yes,2024-02-29,4.0
+TKT-0735,2024-10-25,October,10,Software,Critical,Closed,Priya S.,HR,3.0,2,No,2024-10-25,1.0
+TKT-0736,2024-10-24,October,10,Password Reset,Low,Resolved,Lena B.,Legal,118.0,72,No,2024-10-29,1.0
+TKT-0737,2024-12-08,December,12,Password Reset,Medium,Resolved,Aisha R.,Engineering,14.0,24,Yes,2024-12-09,4.0
+TKT-0738,2024-08-21,August,8,Email,Medium,Closed,Lena B.,Operations,16.0,24,Yes,2024-08-22,4.0
+TKT-0739,2024-11-16,November,11,Printer,Low,Resolved,Jordan M.,HR,48.0,72,Yes,2024-11-18,5.0
+TKT-0740,2024-09-16,September,9,Software,Medium,Resolved,Jordan M.,Finance,39.0,24,No,2024-09-17,4.0
+TKT-0741,2024-03-10,March,3,Network,Low,Closed,Aisha R.,Operations,73.0,72,No,2024-03-13,4.0
+TKT-0742,2024-12-27,December,12,VPN,Low,Resolved,Jordan M.,Legal,77.0,72,No,2024-12-30,4.0
+TKT-0743,2024-08-01,August,8,Email,Low,Resolved,Marcus T.,Sales,121.0,72,No,2024-08-06,4.0
+TKT-0744,2024-03-22,March,3,Software,Medium,Resolved,Aisha R.,Operations,40.0,24,No,2024-03-24,5.0
+TKT-0745,2024-12-28,December,12,Printer,High,Resolved,Marcus T.,Sales,10.0,8,No,2024-12-29,4.0
+TKT-0746,2024-08-30,August,8,Password Reset,Medium,Closed,Lena B.,Operations,9.0,24,Yes,2024-08-30,4.0
+TKT-0747,2024-07-10,July,7,Access & Permissions,High,Closed,Jordan M.,Finance,8.0,8,Yes,2024-07-10,1.0
+TKT-0748,2024-08-30,August,8,VPN,High,Closed,Aisha R.,Finance,7.0,8,Yes,2024-08-31,4.0
+TKT-0749,2024-08-05,August,8,Access & Permissions,High,Resolved,Marcus T.,Marketing,7.0,8,Yes,2024-08-05,5.0
+TKT-0750,2024-04-29,April,4,Hardware,Medium,Resolved,Jordan M.,Operations,36.0,24,No,2024-05-01,4.0
+TKT-0751,2024-06-02,June,6,Access & Permissions,High,Closed,Marcus T.,Legal,1.0,8,Yes,2024-06-02,4.0
+TKT-0752,2024-09-18,September,9,Network,Medium,Closed,Aisha R.,HR,31.0,24,No,2024-09-19,4.0
+TKT-0753,2024-12-12,December,12,VPN,High,Resolved,Jordan M.,Legal,11.0,8,No,2024-12-12,4.0
+TKT-0754,2024-08-07,August,8,Hardware,High,Resolved,Priya S.,Sales,11.0,8,No,2024-08-07,5.0
+TKT-0755,2024-11-06,November,11,Network,Critical,Resolved,Marcus T.,Legal,3.0,2,No,2024-11-06,1.0
+TKT-0756,2024-05-25,May,5,VPN,Medium,Resolved,Priya S.,Sales,11.0,24,Yes,2024-05-26,2.0
+TKT-0757,2024-10-30,October,10,Email,High,Closed,Aisha R.,Finance,11.0,8,No,2024-10-31,4.0
+TKT-0758,2024-04-02,April,4,Email,Medium,Resolved,Priya S.,Finance,20.0,24,Yes,2024-04-03,4.0
+TKT-0759,2024-01-15,January,1,Hardware,High,Resolved,Aisha R.,Sales,3.0,8,Yes,2024-01-15,3.0
+TKT-0760,2024-05-12,May,5,Network,Critical,Closed,Jordan M.,Legal,3.0,2,No,2024-05-12,5.0
+TKT-0761,2024-07-19,July,7,Hardware,Medium,Resolved,Aisha R.,Engineering,9.0,24,Yes,2024-07-19,5.0
+TKT-0762,2024-07-21,July,7,Software,Low,Closed,Marcus T.,Engineering,80.0,72,No,2024-07-25,5.0
+TKT-0763,2024-02-10,February,2,Hardware,Medium,Closed,Lena B.,Legal,43.0,24,No,2024-02-11,4.0
+TKT-0764,2024-12-12,December,12,Email,Low,Resolved,Lena B.,Marketing,52.0,72,Yes,2024-12-14,5.0
+TKT-0765,2024-09-17,September,9,Software,Low,Resolved,Jordan M.,Sales,39.0,72,Yes,2024-09-19,4.0
+TKT-0766,2024-02-09,February,2,Email,Low,Resolved,Priya S.,Operations,90.0,72,No,2024-02-13,5.0
+TKT-0767,2024-08-10,August,8,Printer,Low,Resolved,Lena B.,Engineering,19.0,72,Yes,2024-08-11,2.0
+TKT-0768,2024-01-12,January,1,VPN,Medium,Resolved,Jordan M.,Finance,44.0,24,No,2024-01-14,4.0
+TKT-0769,2024-03-10,March,3,Email,High,Closed,Marcus T.,Legal,15.0,8,No,2024-03-11,3.0
+TKT-0770,2024-10-21,October,10,Password Reset,Medium,Resolved,Lena B.,HR,35.0,24,No,2024-10-22,2.0
+TKT-0771,2024-11-07,November,11,Email,Critical,Resolved,Aisha R.,Engineering,4.0,2,No,2024-11-07,3.0
+TKT-0772,2024-03-27,March,3,VPN,Low,Closed,Priya S.,Operations,67.0,72,Yes,2024-03-30,5.0
+TKT-0773,2024-05-08,May,5,Hardware,High,Resolved,Jordan M.,Engineering,11.0,8,No,2024-05-08,2.0
+TKT-0774,2024-07-04,July,7,Printer,Medium,Resolved,Lena B.,Sales,11.0,24,Yes,2024-07-05,2.0
+TKT-0775,2024-02-09,February,2,Printer,Medium,Closed,Lena B.,Operations,46.0,24,No,2024-02-11,2.0
+TKT-0776,2024-04-27,April,4,Access & Permissions,Medium,Resolved,Lena B.,HR,26.0,24,No,2024-04-28,4.0
+TKT-0777,2024-07-06,July,7,VPN,Medium,Resolved,Aisha R.,Sales,22.0,24,Yes,2024-07-07,5.0
+TKT-0778,2024-07-30,July,7,Software,Medium,Closed,Lena B.,Legal,12.0,24,Yes,2024-07-30,4.0
+TKT-0779,2024-08-17,August,8,Password Reset,Medium,Resolved,Priya S.,Marketing,21.0,24,Yes,2024-08-18,5.0
+TKT-0780,2024-01-28,January,1,VPN,Medium,Closed,Marcus T.,Engineering,44.0,24,No,2024-01-29,4.0
+TKT-0781,2024-01-24,January,1,Hardware,Low,Closed,Priya S.,Operations,36.0,72,Yes,2024-01-26,2.0
+TKT-0782,2024-07-25,July,7,Printer,Low,Resolved,Marcus T.,Sales,115.0,72,No,2024-07-30,5.0
+TKT-0783,2024-09-20,September,9,Printer,Medium,Closed,Jordan M.,Sales,28.0,24,No,2024-09-22,1.0
+TKT-0784,2024-07-17,July,7,Hardware,Medium,Closed,Marcus T.,Sales,9.0,24,Yes,2024-07-17,5.0
+TKT-0785,2024-01-01,January,1,Email,High,Resolved,Jordan M.,HR,12.0,8,No,2024-01-01,4.0
+TKT-0786,2024-08-17,August,8,VPN,Medium,Closed,Aisha R.,Engineering,21.0,24,Yes,2024-08-18,4.0
+TKT-0787,2024-09-14,September,9,VPN,Low,Resolved,Marcus T.,Legal,36.0,72,Yes,2024-09-15,4.0
+TKT-0788,2024-04-22,April,4,Software,Critical,Resolved,Jordan M.,HR,2.0,2,Yes,2024-04-22,5.0
+TKT-0789,2024-07-08,July,7,VPN,Medium,Resolved,Aisha R.,Legal,9.0,24,Yes,2024-07-08,5.0
+TKT-0790,2024-12-27,December,12,VPN,Medium,Resolved,Lena B.,Legal,12.0,24,Yes,2024-12-27,4.0
+TKT-0791,2024-05-17,May,5,Password Reset,Low,Closed,Priya S.,Operations,109.0,72,No,2024-05-22,4.0
+TKT-0792,2024-06-08,June,6,Hardware,Critical,Resolved,Lena B.,Engineering,3.0,2,No,2024-06-08,5.0
+TKT-0793,2024-02-13,February,2,Email,Medium,Resolved,Aisha R.,Sales,45.0,24,No,2024-02-15,2.0
+TKT-0794,2024-12-11,December,12,Software,Medium,Resolved,Lena B.,Legal,16.0,24,Yes,2024-12-12,4.0
+TKT-0795,2024-08-26,August,8,Hardware,Low,Resolved,Aisha R.,Engineering,88.0,72,No,2024-08-29,4.0
+TKT-0796,2024-07-01,July,7,Email,Medium,Resolved,Marcus T.,HR,22.0,24,Yes,2024-07-02,1.0
+TKT-0797,2024-12-24,December,12,Email,Medium,Closed,Jordan M.,Operations,20.0,24,Yes,2024-12-25,4.0
+TKT-0798,2024-03-06,March,3,Hardware,Medium,Closed,Marcus T.,Engineering,43.0,24,No,2024-03-08,2.0
+TKT-0799,2024-07-15,July,7,Email,Low,Resolved,Marcus T.,Legal,72.0,72,Yes,2024-07-18,3.0
+TKT-0800,2024-10-14,October,10,Network,Low,Closed,Aisha R.,Marketing,45.0,72,Yes,2024-10-16,5.0
+TKT-0801,2024-04-11,April,4,Hardware,High,Resolved,Marcus T.,Finance,8.0,8,Yes,2024-04-11,5.0
+TKT-0802,2024-08-19,August,8,VPN,Critical,Closed,Aisha R.,HR,2.0,2,Yes,2024-08-19,5.0
+TKT-0803,2024-10-08,October,10,Printer,Medium,Resolved,Jordan M.,Operations,14.0,24,Yes,2024-10-09,3.0
+TKT-0804,2024-11-14,November,11,Password Reset,Low,Resolved,Marcus T.,Engineering,43.0,72,Yes,2024-11-16,5.0
+TKT-0805,2024-10-19,October,10,VPN,Critical,Resolved,Aisha R.,Marketing,2.0,2,Yes,2024-10-19,2.0
+TKT-0806,2024-12-03,December,12,Password Reset,Medium,Closed,Aisha R.,Operations,19.0,24,Yes,2024-12-04,4.0
+TKT-0807,2024-07-24,July,7,Printer,Medium,Resolved,Aisha R.,Sales,3.0,24,Yes,2024-07-25,5.0
+TKT-0808,2024-11-29,November,11,Software,Low,Resolved,Marcus T.,Operations,70.0,72,Yes,2024-12-02,4.0
+TKT-0809,2024-06-28,June,6,Access & Permissions,High,Closed,Lena B.,Marketing,8.0,8,Yes,2024-06-28,5.0
+TKT-0810,2024-03-10,March,3,Software,Medium,Closed,Jordan M.,Engineering,1.0,24,Yes,2024-03-10,2.0
+TKT-0811,2024-02-10,February,2,Email,Medium,Resolved,Marcus T.,HR,23.0,24,Yes,2024-02-11,1.0
+TKT-0812,2024-08-28,August,8,Software,Low,Closed,Jordan M.,Finance,56.0,72,Yes,2024-08-30,5.0
+TKT-0813,2024-02-20,February,2,Network,Medium,Resolved,Jordan M.,Operations,42.0,24,No,2024-02-22,3.0
+TKT-0814,2024-04-24,April,4,Email,Medium,Closed,Aisha R.,Operations,5.0,24,Yes,2024-04-24,5.0
+TKT-0815,2024-10-25,October,10,Software,High,Resolved,Marcus T.,Legal,9.0,8,No,2024-10-26,2.0
+TKT-0816,2024-05-30,May,5,Email,Medium,Resolved,Priya S.,Engineering,4.0,24,Yes,2024-05-31,2.0
+TKT-0817,2024-12-26,December,12,Password Reset,Low,Resolved,Jordan M.,HR,101.0,72,No,2024-12-30,4.0
+TKT-0818,2024-06-16,June,6,Email,Low,Closed,Jordan M.,Finance,28.0,72,Yes,2024-06-17,2.0
+TKT-0819,2024-08-09,August,8,Password Reset,High,Resolved,Priya S.,Operations,15.0,8,No,2024-08-10,4.0
+TKT-0820,2024-12-28,December,12,Printer,Low,Open,Aisha R.,Sales,,72,Pending,,
+TKT-0821,2024-01-02,January,1,VPN,Medium,Resolved,Jordan M.,Sales,32.0,24,No,2024-01-03,3.0
+TKT-0822,2024-05-29,May,5,Printer,Critical,Resolved,Marcus T.,Operations,4.0,2,No,2024-05-29,4.0
+TKT-0823,2024-01-22,January,1,Printer,Medium,Resolved,Jordan M.,Legal,42.0,24,No,2024-01-24,4.0
+TKT-0824,2024-10-24,October,10,Hardware,Low,Resolved,Aisha R.,Operations,52.0,72,Yes,2024-10-26,3.0
+TKT-0825,2024-09-27,September,9,Printer,Medium,Closed,Aisha R.,Finance,7.0,24,Yes,2024-09-27,5.0
+TKT-0826,2024-06-19,June,6,Hardware,High,Resolved,Lena B.,HR,5.0,8,Yes,2024-06-19,4.0
+TKT-0827,2024-01-25,January,1,Password Reset,High,Resolved,Jordan M.,Finance,10.0,8,No,2024-01-25,4.0
+TKT-0828,2024-05-11,May,5,Access & Permissions,High,Resolved,Lena B.,Engineering,2.0,8,Yes,2024-05-11,5.0
+TKT-0829,2024-12-03,December,12,Access & Permissions,High,Closed,Jordan M.,Finance,5.0,8,Yes,2024-12-04,5.0
+TKT-0830,2024-07-08,July,7,Hardware,Medium,Closed,Priya S.,Operations,31.0,24,No,2024-07-10,4.0
+TKT-0831,2024-01-06,January,1,Software,Low,Closed,Aisha R.,Sales,13.0,72,Yes,2024-01-07,3.0
+TKT-0832,2024-08-17,August,8,Access & Permissions,Low,Resolved,Jordan M.,Legal,28.0,72,Yes,2024-08-18,3.0
+TKT-0833,2024-05-11,May,5,Network,High,Resolved,Marcus T.,Legal,13.0,8,No,2024-05-11,5.0
+TKT-0834,2024-03-23,March,3,Software,High,Resolved,Marcus T.,HR,6.0,8,Yes,2024-03-24,5.0
+TKT-0835,2024-03-06,March,3,Access & Permissions,Medium,Resolved,Lena B.,Finance,36.0,24,No,2024-03-07,2.0
+TKT-0836,2024-11-03,November,11,Hardware,High,Closed,Aisha R.,Finance,13.0,8,No,2024-11-03,1.0
+TKT-0837,2024-03-10,March,3,Password Reset,Critical,Resolved,Priya S.,HR,3.0,2,No,2024-03-10,2.0
+TKT-0838,2024-04-15,April,4,Network,Medium,Resolved,Lena B.,Operations,27.0,24,No,2024-04-16,1.0
+TKT-0839,2024-03-10,March,3,Email,High,Closed,Marcus T.,Engineering,3.0,8,Yes,2024-03-11,1.0
+TKT-0840,2024-04-01,April,4,Printer,Low,Closed,Lena B.,Sales,136.0,72,No,2024-04-07,3.0
+TKT-0841,2024-10-26,October,10,Access & Permissions,Medium,Resolved,Jordan M.,Legal,14.0,24,Yes,2024-10-26,2.0
+TKT-0842,2024-11-23,November,11,Network,Critical,Resolved,Jordan M.,Finance,4.0,2,No,2024-11-23,4.0
+TKT-0843,2024-04-20,April,4,Password Reset,Low,Resolved,Jordan M.,Finance,65.0,72,Yes,2024-04-23,5.0
+TKT-0844,2024-12-25,December,12,Password Reset,Medium,Closed,Lena B.,Finance,11.0,24,Yes,2024-12-25,2.0
+TKT-0845,2024-04-01,April,4,Printer,High,Resolved,Priya S.,Legal,11.0,8,No,2024-04-01,2.0
+TKT-0846,2024-03-29,March,3,VPN,Low,Closed,Priya S.,Finance,106.0,72,No,2024-04-02,4.0
+TKT-0847,2024-07-07,July,7,Password Reset,Low,Resolved,Priya S.,Engineering,112.0,72,No,2024-07-11,4.0
+TKT-0848,2024-06-26,June,6,Access & Permissions,High,Closed,Marcus T.,HR,12.0,8,No,2024-06-27,1.0
+TKT-0849,2024-08-08,August,8,Password Reset,Low,Resolved,Aisha R.,Engineering,35.0,72,Yes,2024-08-10,3.0
+TKT-0850,2024-05-13,May,5,Network,Low,Closed,Lena B.,Sales,76.0,72,No,2024-05-16,5.0
+TKT-0851,2024-02-03,February,2,Access & Permissions,Medium,Resolved,Lena B.,Engineering,34.0,24,No,2024-02-04,5.0
+TKT-0852,2024-04-18,April,4,Access & Permissions,Low,Closed,Priya S.,Marketing,110.0,72,No,2024-04-23,4.0
+TKT-0853,2024-03-27,March,3,Hardware,High,Closed,Aisha R.,Finance,5.0,8,Yes,2024-03-27,1.0
+TKT-0854,2024-07-01,July,7,VPN,High,Resolved,Aisha R.,Legal,2.0,8,Yes,2024-07-01,5.0
+TKT-0855,2024-11-14,November,11,Hardware,Low,Resolved,Aisha R.,HR,127.0,72,No,2024-11-20,2.0
+TKT-0856,2024-04-24,April,4,Email,Low,Resolved,Priya S.,Operations,24.0,72,Yes,2024-04-25,4.0
+TKT-0857,2024-08-09,August,8,Password Reset,High,Closed,Priya S.,Legal,1.0,8,Yes,2024-08-09,5.0
+TKT-0858,2024-03-12,March,3,Hardware,High,Closed,Jordan M.,Engineering,12.0,8,No,2024-03-13,5.0
+TKT-0859,2024-05-09,May,5,Email,Medium,Resolved,Lena B.,Sales,19.0,24,Yes,2024-05-10,4.0
+TKT-0860,2024-03-21,March,3,Printer,High,Closed,Jordan M.,Sales,3.0,8,Yes,2024-03-21,5.0
+TKT-0861,2024-09-19,September,9,Printer,Medium,Resolved,Aisha R.,Sales,4.0,24,Yes,2024-09-19,1.0
+TKT-0862,2024-05-22,May,5,Access & Permissions,Low,Closed,Priya S.,Marketing,144.0,72,No,2024-05-28,3.0
+TKT-0863,2024-02-14,February,2,Access & Permissions,Medium,Closed,Priya S.,Marketing,48.0,24,No,2024-02-16,4.0
+TKT-0864,2024-04-13,April,4,Software,Medium,Resolved,Marcus T.,Marketing,28.0,24,No,2024-04-14,4.0
+TKT-0865,2024-07-13,July,7,Email,Medium,Resolved,Aisha R.,Sales,8.0,24,Yes,2024-07-14,4.0
+TKT-0866,2024-09-18,September,9,Password Reset,Critical,Resolved,Jordan M.,Finance,1.0,2,Yes,2024-09-18,4.0
+TKT-0867,2024-03-10,March,3,Email,Low,Resolved,Jordan M.,Operations,20.0,72,Yes,2024-03-11,2.0
+TKT-0868,2024-02-28,February,2,Network,High,Resolved,Aisha R.,Marketing,1.0,8,Yes,2024-02-28,4.0
+TKT-0869,2024-10-13,October,10,Hardware,Medium,Resolved,Priya S.,Legal,19.0,24,Yes,2024-10-14,5.0
+TKT-0870,2024-09-07,September,9,Printer,Medium,Resolved,Aisha R.,Sales,38.0,24,No,2024-09-08,5.0
+TKT-0871,2024-07-24,July,7,Network,High,Resolved,Marcus T.,HR,15.0,8,No,2024-07-25,5.0
+TKT-0872,2024-03-29,March,3,Hardware,Medium,Closed,Priya S.,Marketing,19.0,24,Yes,2024-03-29,3.0
+TKT-0873,2024-03-05,March,3,Email,Medium,Closed,Priya S.,HR,11.0,24,Yes,2024-03-06,5.0
+TKT-0874,2024-09-26,September,9,Software,Critical,Resolved,Jordan M.,Marketing,2.0,2,Yes,2024-09-26,4.0
+TKT-0875,2024-06-20,June,6,Hardware,Low,Resolved,Marcus T.,Marketing,48.0,72,Yes,2024-06-22,2.0
+TKT-0876,2024-06-23,June,6,Software,Medium,Resolved,Jordan M.,Engineering,11.0,24,Yes,2024-06-23,5.0
+TKT-0877,2024-10-25,October,10,Network,Low,Closed,Jordan M.,Operations,118.0,72,No,2024-10-30,4.0
+TKT-0878,2024-07-16,July,7,Email,Medium,Resolved,Lena B.,Operations,46.0,24,No,2024-07-17,2.0
+TKT-0879,2024-08-07,August,8,Software,High,Resolved,Aisha R.,Finance,15.0,8,No,2024-08-08,2.0
+TKT-0880,2024-08-01,August,8,Access & Permissions,Low,Resolved,Aisha R.,Marketing,7.0,72,Yes,2024-08-02,2.0
+TKT-0881,2024-01-22,January,1,Access & Permissions,Medium,Resolved,Marcus T.,HR,13.0,24,Yes,2024-01-22,1.0
+TKT-0882,2024-07-28,July,7,VPN,High,Closed,Priya S.,Engineering,3.0,8,Yes,2024-07-28,4.0
+TKT-0883,2024-08-22,August,8,Printer,Medium,Closed,Aisha R.,HR,4.0,24,Yes,2024-08-23,5.0
+TKT-0884,2024-06-15,June,6,Printer,Medium,Resolved,Marcus T.,Marketing,24.0,24,Yes,2024-06-16,5.0
+TKT-0885,2024-12-05,December,12,Password Reset,Medium,Closed,Aisha R.,Legal,14.0,24,Yes,2024-12-06,4.0
+TKT-0886,2024-03-04,March,3,VPN,High,Closed,Priya S.,Legal,14.0,8,No,2024-03-05,4.0
+TKT-0887,2024-02-03,February,2,Printer,Low,Resolved,Jordan M.,Sales,78.0,72,No,2024-02-06,5.0
+TKT-0888,2024-02-04,February,2,Password Reset,Low,Resolved,Lena B.,Legal,70.0,72,Yes,2024-02-07,5.0
+TKT-0889,2024-03-18,March,3,Password Reset,Low,Resolved,Jordan M.,Legal,98.0,72,No,2024-03-22,5.0
+TKT-0890,2024-11-20,November,11,Password Reset,Medium,Resolved,Priya S.,Finance,32.0,24,No,2024-11-21,5.0
+TKT-0891,2024-02-29,February,2,Email,Low,Resolved,Aisha R.,HR,121.0,72,No,2024-03-05,4.0
+TKT-0892,2024-09-24,September,9,Email,Medium,Resolved,Aisha R.,Finance,2.0,24,Yes,2024-09-24,4.0
+TKT-0893,2024-05-20,May,5,Email,Medium,Resolved,Aisha R.,Operations,37.0,24,No,2024-05-22,5.0
+TKT-0894,2024-05-24,May,5,Email,Medium,Resolved,Priya S.,Sales,37.0,24,No,2024-05-26,2.0
+TKT-0895,2024-05-04,May,5,Network,Medium,Resolved,Jordan M.,Marketing,45.0,24,No,2024-05-06,4.0
+TKT-0896,2024-09-04,September,9,Email,Critical,Resolved,Lena B.,Operations,3.0,2,No,2024-09-04,5.0
+TKT-0897,2024-07-18,July,7,Network,Low,Closed,Lena B.,Marketing,47.0,72,Yes,2024-07-20,5.0
+TKT-0898,2024-11-17,November,11,Printer,High,Resolved,Jordan M.,Sales,10.0,8,No,2024-11-17,4.0
+TKT-0899,2024-11-15,November,11,Printer,Low,Resolved,Aisha R.,Engineering,36.0,72,Yes,2024-11-17,4.0
+TKT-0900,2024-12-19,December,12,Access & Permissions,Low,Resolved,Priya S.,Legal,56.0,72,Yes,2024-12-22,5.0
+TKT-0901,2024-08-26,August,8,Software,Medium,Closed,Aisha R.,Engineering,34.0,24,No,2024-08-27,5.0
+TKT-0902,2024-02-15,February,2,Email,High,Resolved,Marcus T.,HR,1.0,8,Yes,2024-02-15,5.0
+TKT-0903,2024-12-11,December,12,Email,Critical,Resolved,Jordan M.,Operations,3.0,2,No,2024-12-11,5.0
+TKT-0904,2024-03-27,March,3,Email,Low,Closed,Priya S.,HR,37.0,72,Yes,2024-03-28,2.0
+TKT-0905,2024-01-31,January,1,Password Reset,Medium,Resolved,Aisha R.,Finance,8.0,24,Yes,2024-01-31,3.0
+TKT-0906,2024-01-13,January,1,Email,High,Resolved,Jordan M.,Finance,2.0,8,Yes,2024-01-13,4.0
+TKT-0907,2024-01-04,January,1,Access & Permissions,High,Closed,Lena B.,HR,4.0,8,Yes,2024-01-05,3.0
+TKT-0908,2024-05-16,May,5,Email,Low,Closed,Lena B.,Marketing,38.0,72,Yes,2024-05-18,4.0
+TKT-0909,2024-11-28,November,11,Software,Medium,Closed,Jordan M.,Legal,47.0,24,No,2024-11-30,4.0
+TKT-0910,2024-01-06,January,1,Email,Medium,Resolved,Priya S.,Legal,46.0,24,No,2024-01-08,4.0
+TKT-0911,2024-10-08,October,10,Password Reset,Low,Closed,Marcus T.,Operations,55.0,72,Yes,2024-10-10,4.0
+TKT-0912,2024-06-19,June,6,Printer,Medium,Resolved,Aisha R.,Engineering,7.0,24,Yes,2024-06-20,3.0
+TKT-0913,2024-03-29,March,3,Software,Medium,Resolved,Lena B.,HR,21.0,24,Yes,2024-03-30,4.0
+TKT-0914,2024-05-20,May,5,Password Reset,High,Resolved,Jordan M.,Engineering,2.0,8,Yes,2024-05-20,3.0
+TKT-0915,2024-08-21,August,8,VPN,High,Resolved,Marcus T.,Legal,15.0,8,No,2024-08-21,4.0
+TKT-0916,2024-11-28,November,11,Printer,Low,Closed,Priya S.,Finance,122.0,72,No,2024-12-03,5.0
+TKT-0917,2024-07-09,July,7,Software,Medium,Resolved,Jordan M.,HR,26.0,24,No,2024-07-11,4.0
+TKT-0918,2024-09-26,September,9,Network,Medium,Closed,Jordan M.,Marketing,7.0,24,Yes,2024-09-27,5.0
+TKT-0919,2024-05-11,May,5,VPN,Low,Resolved,Aisha R.,Marketing,104.0,72,No,2024-05-15,5.0
+TKT-0920,2024-10-24,October,10,VPN,Medium,Closed,Marcus T.,Engineering,18.0,24,Yes,2024-10-25,5.0
+TKT-0921,2024-06-06,June,6,Password Reset,Critical,Resolved,Jordan M.,Finance,3.0,2,No,2024-06-06,3.0
+TKT-0922,2024-07-12,July,7,Hardware,Low,Resolved,Jordan M.,Engineering,35.0,72,Yes,2024-07-13,5.0
+TKT-0923,2024-03-10,March,3,Email,Medium,Resolved,Lena B.,Sales,44.0,24,No,2024-03-12,2.0
+TKT-0924,2024-01-30,January,1,Password Reset,Medium,Closed,Priya S.,Marketing,34.0,24,No,2024-02-01,5.0
+TKT-0925,2024-07-09,July,7,Hardware,Medium,Resolved,Jordan M.,Engineering,35.0,24,No,2024-07-10,5.0
+TKT-0926,2024-02-16,February,2,Password Reset,Medium,Closed,Aisha R.,Finance,21.0,24,Yes,2024-02-17,1.0
+TKT-0927,2024-08-04,August,8,Network,Medium,Closed,Aisha R.,Engineering,20.0,24,Yes,2024-08-05,2.0
+TKT-0928,2024-10-04,October,10,Password Reset,Medium,Resolved,Lena B.,Operations,8.0,24,Yes,2024-10-05,4.0
+TKT-0929,2024-07-01,July,7,VPN,Medium,Resolved,Marcus T.,Engineering,11.0,24,Yes,2024-07-01,4.0
+TKT-0930,2024-05-26,May,5,Email,Medium,Closed,Marcus T.,Finance,23.0,24,Yes,2024-05-27,1.0
+TKT-0931,2024-01-18,January,1,Hardware,Low,Resolved,Marcus T.,Engineering,94.0,72,No,2024-01-22,2.0
+TKT-0932,2024-05-14,May,5,Access & Permissions,Critical,Resolved,Priya S.,HR,4.0,2,No,2024-05-14,4.0
+TKT-0933,2024-08-18,August,8,Software,Low,Closed,Marcus T.,HR,17.0,72,Yes,2024-08-18,1.0
+TKT-0934,2024-05-06,May,5,VPN,Low,Resolved,Marcus T.,Finance,109.0,72,No,2024-05-11,5.0
+TKT-0935,2024-08-16,August,8,VPN,Low,Resolved,Marcus T.,Sales,82.0,72,No,2024-08-19,2.0
+TKT-0936,2024-07-08,July,7,Printer,Low,Resolved,Priya S.,Sales,53.0,72,Yes,2024-07-10,3.0
+TKT-0937,2024-06-18,June,6,Access & Permissions,Low,Closed,Marcus T.,Marketing,20.0,72,Yes,2024-06-19,1.0
+TKT-0938,2024-08-10,August,8,Software,Medium,Closed,Lena B.,Finance,15.0,24,Yes,2024-08-11,4.0
+TKT-0939,2024-04-16,April,4,Access & Permissions,Low,Resolved,Marcus T.,Legal,136.0,72,No,2024-04-21,2.0
+TKT-0940,2024-11-15,November,11,Printer,Medium,Resolved,Priya S.,Engineering,20.0,24,Yes,2024-11-16,4.0
+TKT-0941,2024-08-30,August,8,Network,Medium,Closed,Jordan M.,Operations,43.0,24,No,2024-09-01,5.0
+TKT-0942,2024-12-01,December,12,Password Reset,Low,Resolved,Marcus T.,Operations,128.0,72,No,2024-12-06,4.0
+TKT-0943,2024-08-26,August,8,Hardware,High,Closed,Lena B.,HR,14.0,8,No,2024-08-27,4.0
+TKT-0944,2024-02-27,February,2,VPN,Low,Closed,Marcus T.,Legal,77.0,72,No,2024-03-01,5.0
+TKT-0945,2024-01-26,January,1,Email,Medium,Resolved,Priya S.,Marketing,27.0,24,No,2024-01-27,5.0
+TKT-0946,2024-04-01,April,4,Hardware,Medium,Resolved,Priya S.,Legal,8.0,24,Yes,2024-04-02,5.0
+TKT-0947,2024-06-29,June,6,Hardware,Medium,Resolved,Priya S.,HR,28.0,24,No,2024-06-30,3.0
+TKT-0948,2024-01-12,January,1,Network,Low,Closed,Jordan M.,Operations,72.0,72,Yes,2024-01-15,4.0
+TKT-0949,2024-01-08,January,1,Email,Low,Resolved,Jordan M.,Engineering,22.0,72,Yes,2024-01-09,5.0
+TKT-0950,2024-09-17,September,9,Network,Medium,Resolved,Priya S.,Finance,6.0,24,Yes,2024-09-18,4.0
+TKT-0951,2024-07-13,July,7,Software,Critical,Resolved,Priya S.,Sales,3.0,2,No,2024-07-13,2.0
+TKT-0952,2024-11-09,November,11,Access & Permissions,Medium,Closed,Aisha R.,HR,38.0,24,No,2024-11-10,2.0
+TKT-0953,2024-03-09,March,3,Email,Low,Resolved,Lena B.,Finance,71.0,72,Yes,2024-03-11,4.0
+TKT-0954,2024-05-25,May,5,VPN,Medium,Resolved,Aisha R.,Operations,8.0,24,Yes,2024-05-25,3.0
+TKT-0955,2024-04-17,April,4,Printer,High,Resolved,Marcus T.,Finance,5.0,8,Yes,2024-04-18,4.0
+TKT-0956,2024-12-17,December,12,Hardware,Medium,Closed,Priya S.,Marketing,48.0,24,No,2024-12-19,4.0
+TKT-0957,2024-04-30,April,4,Software,Medium,Resolved,Lena B.,Legal,45.0,24,No,2024-05-01,3.0
+TKT-0958,2024-06-20,June,6,Email,Medium,Closed,Marcus T.,Finance,26.0,24,No,2024-06-21,5.0
+TKT-0959,2024-10-20,October,10,Network,Low,Closed,Aisha R.,Operations,54.0,72,Yes,2024-10-23,4.0
+TKT-0960,2024-11-11,November,11,Email,High,Closed,Jordan M.,Legal,14.0,8,No,2024-11-12,5.0
+TKT-0961,2024-07-09,July,7,Printer,Medium,Closed,Aisha R.,Legal,27.0,24,No,2024-07-11,2.0
+TKT-0962,2024-03-03,March,3,VPN,Medium,Resolved,Lena B.,Operations,33.0,24,No,2024-03-04,5.0
+TKT-0963,2024-10-13,October,10,Hardware,Medium,Resolved,Priya S.,Operations,45.0,24,No,2024-10-15,4.0
+TKT-0964,2024-09-05,September,9,Email,Low,Resolved,Marcus T.,Sales,103.0,72,No,2024-09-10,2.0
+TKT-0965,2024-03-02,March,3,VPN,Low,Closed,Marcus T.,Engineering,34.0,72,Yes,2024-03-03,4.0
+TKT-0966,2024-10-12,October,10,Printer,Low,Closed,Marcus T.,HR,45.0,72,Yes,2024-10-14,2.0
+TKT-0967,2024-05-22,May,5,Access & Permissions,Low,Closed,Jordan M.,Finance,97.0,72,No,2024-05-26,5.0
+TKT-0968,2024-09-08,September,9,Password Reset,Medium,Closed,Priya S.,Marketing,15.0,24,Yes,2024-09-08,5.0
+TKT-0969,2024-03-06,March,3,Network,Low,Closed,Jordan M.,Marketing,110.0,72,No,2024-03-11,3.0
+TKT-0970,2024-08-08,August,8,Password Reset,Low,Resolved,Aisha R.,Finance,135.0,72,No,2024-08-13,3.0
+TKT-0971,2024-03-19,March,3,Password Reset,Low,Resolved,Aisha R.,HR,69.0,72,Yes,2024-03-22,4.0
+TKT-0972,2024-03-21,March,3,Access & Permissions,Medium,Closed,Aisha R.,HR,19.0,24,Yes,2024-03-22,4.0
+TKT-0973,2024-02-26,February,2,Password Reset,Low,Resolved,Priya S.,Marketing,68.0,72,Yes,2024-02-29,4.0
+TKT-0974,2024-09-08,September,9,Printer,Medium,Resolved,Aisha R.,Operations,1.0,24,Yes,2024-09-08,3.0
+TKT-0975,2024-05-28,May,5,Hardware,High,Resolved,Jordan M.,Marketing,9.0,8,No,2024-05-29,5.0
+TKT-0976,2024-07-01,July,7,VPN,Critical,Resolved,Marcus T.,Engineering,1.0,2,Yes,2024-07-01,5.0
+TKT-0977,2024-02-21,February,2,Email,Critical,Resolved,Priya S.,Sales,1.0,2,Yes,2024-02-21,4.0
+TKT-0978,2024-05-11,May,5,VPN,High,Resolved,Priya S.,Marketing,5.0,8,Yes,2024-05-11,2.0
+TKT-0979,2024-01-18,January,1,Email,Critical,Closed,Marcus T.,Engineering,4.0,2,No,2024-01-18,3.0
+TKT-0980,2024-12-06,December,12,VPN,Low,Resolved,Priya S.,Marketing,68.0,72,Yes,2024-12-09,5.0
+TKT-0981,2024-07-09,July,7,Password Reset,High,Resolved,Jordan M.,HR,5.0,8,Yes,2024-07-10,2.0
+TKT-0982,2024-03-30,March,3,Password Reset,Low,Resolved,Aisha R.,Finance,121.0,72,No,2024-04-04,5.0
+TKT-0983,2024-12-26,December,12,Password Reset,Medium,Resolved,Aisha R.,Engineering,29.0,24,No,2024-12-27,2.0
+TKT-0984,2024-10-06,October,10,Access & Permissions,High,Resolved,Marcus T.,HR,4.0,8,Yes,2024-10-06,5.0
+TKT-0985,2024-10-18,October,10,Access & Permissions,Medium,Resolved,Lena B.,Finance,18.0,24,Yes,2024-10-18,4.0
+TKT-0986,2024-08-09,August,8,Password Reset,Low,Resolved,Jordan M.,Marketing,20.0,72,Yes,2024-08-10,1.0
+TKT-0987,2024-09-21,September,9,Software,Critical,Resolved,Marcus T.,HR,1.0,2,Yes,2024-09-21,1.0
+TKT-0988,2024-06-27,June,6,Email,High,Resolved,Lena B.,Operations,16.0,8,No,2024-06-28,1.0
+TKT-0989,2024-01-18,January,1,Network,Medium,Resolved,Priya S.,Legal,29.0,24,No,2024-01-19,1.0
+TKT-0990,2024-09-06,September,9,VPN,Low,Closed,Jordan M.,Engineering,15.0,72,Yes,2024-09-07,3.0
+TKT-0991,2024-04-03,April,4,Access & Permissions,Critical,Resolved,Priya S.,Engineering,4.0,2,No,2024-04-03,5.0
+TKT-0992,2024-04-20,April,4,Email,Medium,Resolved,Aisha R.,Legal,42.0,24,No,2024-04-22,4.0
+TKT-0993,2024-11-09,November,11,Software,Critical,Resolved,Marcus T.,Sales,2.0,2,Yes,2024-11-09,3.0
+TKT-0994,2024-06-21,June,6,VPN,High,Resolved,Jordan M.,Legal,16.0,8,No,2024-06-22,4.0
+TKT-0995,2024-05-23,May,5,Software,Medium,Closed,Jordan M.,Sales,28.0,24,No,2024-05-24,4.0
+TKT-0996,2024-06-29,June,6,Network,Medium,Closed,Aisha R.,Sales,42.0,24,No,2024-06-30,4.0
+TKT-0997,2024-07-22,July,7,Password Reset,Low,Resolved,Marcus T.,HR,120.0,72,No,2024-07-27,5.0
+TKT-0998,2024-09-22,September,9,Email,Critical,Resolved,Lena B.,Finance,2.0,2,Yes,2024-09-22,4.0
+TKT-0999,2024-12-22,December,12,VPN,Low,Resolved,Jordan M.,Engineering,28.0,72,Yes,2024-12-23,5.0
+TKT-1000,2024-08-08,August,8,Software,High,Resolved,Lena B.,Finance,12.0,8,No,2024-08-09,2.0
