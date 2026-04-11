@@ -1,6 +1,6 @@
 # IT Service Desk Ticketing System | Funnel Analysis
 
-**Tools:** SQL (MySQL Workbench) · Python (ETL Pipeline) · Tableau · Excel  
+**Tools:** Python (ETL Pipeline) · Tableau · Excel  
 **Domain:** IT Service Management | Help Desk Operations  
 **Data:** Synthetic dataset modeled after real IT service desk ticketing structures
 
